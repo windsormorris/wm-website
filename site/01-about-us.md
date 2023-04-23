@@ -6,7 +6,7 @@ As our name suggests, we are based in _Windsor_, in Berkshire, one of the 'Home 
 
 The side was founded in 1974, which makes us one of the longest-established women's morris teams in the country.
 
-<div class="float-right"><img src="/img/Warwick%202005%20tn.jpeg" width='250px'></div>
+<img class="float-right" src="/img/Warwick%202005%20tn.jpeg" width='35%'>
 
 We are a friendly, energetic and enthusiastic group who enjoy dancing together and taking our dances to a variety of audiences. We get together every week, on a Wednesday evening, to work on perfecting our team-work, training up new dancers and musicians, and inventing new dances. The dancers in the team are all female, since we aim to have a consistent team style, but we do have male musicians. 
 

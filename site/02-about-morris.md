@@ -2,8 +2,6 @@
 About the Morris
 ================
 
-![&nbsp;](http://upload.wikimedia.org/wikipedia/commons/d/de/Will_Kemp_Elizabethan_Clown_Jig.jpg){.figure}
-
 In 1600, Shakespearean actor [Will Kempe](http://en.wikipedia.org/wiki/William_Kempe) danced from London to Norwich in what he later called his _Nine Daies Wonder._  
 <small>Photo credit: Wikipedia.</small>
 

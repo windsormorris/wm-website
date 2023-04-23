@@ -122,7 +122,7 @@
   widget = "insert_html"
   selector = "logo"
   html = """   
-    <img class='logo' src='/img/windsorCastle_100.gif'>
+    <a href='/'><img class='logo' src='/img/windsorCastle_100.gif'></a>
 """
 
 [widgets.insert-beach-logo]
@@ -132,7 +132,18 @@
   action = "replace_content"
   after = "insert-usual-logo"
   html = """   
-    <img class='logo' src='/img/programme_logo.jpg'>
+    <a href='/'><img class='logo' src='/img/programme_logo.jpg'></a>
+"""
+
+[widgets.insert-kemp-logo]
+  path_regex = "about-morris"
+  widget = "insert_html"
+  selector = "logo"
+  action = "replace_content"
+  after = "insert-usual-logo"
+  html = """   
+    <a href='/'><img class='logo' 
+      src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Will_Kemp_Elizabethan_Clown_Jig.jpg/200px-Will_Kemp_Elizabethan_Clown_Jig.jpg'></a>
 """
 
 [widgets.insert-chapters-index]
