@@ -15,10 +15,10 @@
   clean_urls = true
 
   # Where generated files go
-  build_dir = "build"
+  build_dir = "build/"
 
   # Where page files are stored
-  site_dir = "book/"
+  site_dir = "site/"
 
   # Where in the template the page content is inserted
   default_content_selector = "content"
