@@ -1,0 +1,74 @@
+body {
+  font-size: 12pt;
+  margin: 1%;
+}
+
+logo {
+  float: right;
+}
+
+content {
+  position: relative;
+  display: block;
+  top: 75px;
+  max-width: var(--text-width);
+  margin: 3%;
+}
+
+.figure {
+  float: left;
+  margin-right: 15px;
+  width: 250px;
+  height: auto;
+}
+
+a:visited {
+  color: green;
+}
+
+.fab { margin-left: 5px;}
+
+copyright {
+  float: right;
+  font-size: 0.6em;
+  text-align: right;
+}
+
+h1 { 
+  font-size: 14pt; 
+  font-weight: bold;
+  color: green;
+}
+
+h2 { 
+  font-size: 12pt; 
+  font-weight: bold;
+  color: green;
+}
+
+
+
+dt {
+  font-weight: bold;
+  margin-top: 1.5em;
+}
+
+.narrow {
+  width: 25%;
+  height: auto;
+}
+
+.short {
+  max-height: 250px;
+  width: auto;
+}
+
+.float-right {
+  float: right;
+  margin-left: 15px;
+}
+
+.float-left {
+  float: left;
+  margin-right: 15px;
+}
