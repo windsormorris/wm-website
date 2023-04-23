@@ -1,0 +1,202 @@
+### Configuration file for the soupault website generator ###
+
+## Global settings
+
+[settings]
+  # This configuration only works with soupault 4.0.0 or later
+  soupault_version = "4.0.0"
+
+  strict = true
+  verbose = true
+  debug = true
+
+  # Force "clean URLs", i.e. book/foo.md becomes build/foo/index.html
+  # (Clean URLs is the default, you can set it to false if you don't like it)
+  clean_urls = true
+
+  # Where generated files go
+  build_dir = "build"
+
+  # Where page files are stored
+  site_dir = "book/"
+
+  # Where in the template the page content is inserted
+  default_content_selector = "content"
+
+  default_template_file = "templates/main.html"
+
+  # Page considered the section index
+  index_page = "index"
+
+  # Files that are considered pages and processed
+  # All other files are considered assets and copied unchanged
+  page_file_extensions = ["html", "md"]
+
+  doctype = "<!DOCTYPE html>"
+
+## Preprocessors convert non-HTML files to HTML
+## for further processing by soupault
+[preprocessors]
+  md = "pandoc -f markdown -t html"
+
+# Removes the chapter number from the output path
+# e.g. book/00-preface.md becomes build/preface/
+[hooks.pre-process]
+  lua_source = '''
+    target_file_name = Sys.basename(target_file)
+
+    target_page_dir = Sys.basename(target_dir)
+    target_page_parent_dir = Sys.dirname(target_dir)
+
+    target_page_dir = Regex.replace(target_page_dir, "^\\d+-", "")
+
+    target_dir = Sys.join_path(target_page_parent_dir, target_page_dir)
+    target_file = Sys.join_path(target_dir, target_file_name)
+
+    Log.debug(format("Target file name set to \"%s\"", target_file))
+'''
+
+## 
+[hooks.post-index]
+  lua_source = '''
+    Log.debug("Extracting chapter number")
+    page_file_name = Sys.basename(page_file)
+    res = Regex.find_all(page_file_name, "^(\\d+)")
+
+    if res then
+      chapter_number = res[1]
+    else
+      chapter_number = 0
+    end
+
+    index_fields["chapter_number"] = format("%s", chapter_number)
+
+    Log.debug(format("Extracted chapter number: %s", chapter_number))
+'''
+
+[index]
+  index = true
+
+  # Make the index data available even to content pages,
+  # at cost of making a reduced first pass to extract that data before the "real" build
+  # This is to generate the sidebar with the chapter list on every page
+  index_first = true
+
+  sort_by = "chapter_number"
+  sort_type = "numeric"
+  sort_descending = false
+
+[index.fields]
+  title = { selector = "h1" }
+
+[index.fields.date]
+  selector = ["time#post-date", "time"]
+  extract_attribute = "datetime"
+  fallback_to_content = true
+  
+[index.fields.author]
+  selector = ["author"]
+  
+[index.fields.logo]
+  selector = ["logo"]
+  
+## Widgets
+
+# Takes the content of the first <h1> and inserts it into the <title>
+[widgets.page-title]
+  widget = "title"
+  selector = "h1"
+  default = "Title needed!"
+
+[widgets.insert-css]
+  widget = "insert_html"
+  selector = "head"
+  html = """   
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.7/css/all.css">
+    <link rel="stylesheet" href="/styles/main.css" type="text/css">
+    <link rel="stylesheet" href="/styles/menu.css" type="text/css">
+    <link rel="stylesheet" href="/styles/wm.css" type="text/css">
+"""
+
+[widgets.insert-usual-logo]
+  widget = "insert_html"
+  selector = "logo"
+  html = """   
+    <img class='logo' src='/img/windsorCastle_100.gif'>
+"""
+
+[widgets.insert-beach-logo]
+  path_regex = "about-us"
+  widget = "insert_html"
+  selector = "logo"
+  action = "replace_content"
+  after = "insert-usual-logo"
+  html = """   
+    <img class='logo' src='/img/programme_logo.jpg'>
+"""
+
+[widgets.insert-chapters-index]
+  widget = "chapters-index"
+
+  index_selector = "div#chapters-index"
+
+  index_template = '''
+    <ul class="toc">
+      <li> <a href="/">Our Programme</a> </li>
+      {% for e in entries %}
+      <li> <a href="{{e.url}}">{{e.title}}</a> </li>
+      {% endfor %}
+    </ul>
+    <div style='margin: 20px 0 0 3em;'>
+      <div>
+        <a href='https://www.facebook.com/windsormorrisdancers'>Facebook<span class="fab fa-facebook-square"></span></a>
+      </div>
+      <div>
+        <a href='https://www.twitter.com/WMwindsormorris'>Twitter<span class="fab fa-twitter-square"></span></a>
+      </div>
+    </div>
+'''
+
+[widgets.insert-horizontal-navigation]
+  widget = "chapters-index"
+
+  index_selector = "div#horizontal-navigation"
+
+  index_template = '''
+    <div class="toc">
+      <span> <a href="/">Our Programme</a> </span>
+      {% for e in entries %}
+      <span> <a href="{{e.url}}">{{e.title}}</a> </span>
+      {% endfor %}
+    </div>
+'''
+
+[widgets.insert-hamburger-menu]
+  widget = "chapters-index"
+
+  index_selector = "div#hamburger-menu"
+
+  index_template = '''
+    <nav role="navigation">
+      <div id="menuToggle">
+        <!-- A fake / hidden checkbox is used as click reciever,
+          so you can use the :checked selector on it. -->
+        <input type="checkbox" />
+        
+        <!-- Some spans to act as a hamburger. -->
+        <span></span>
+        <span></span>
+        <span></span>
+        
+        <!-- Too bad the menu has to be inside of the button
+          but hey, it's pure CSS magic. -->
+        <ul id="menu" class="toc">
+          <a href="/"><li> Our Programme</li></a> 
+          {% for e in entries %}
+            <a href="{{e.url}}"><li>{{e.title}}</li></a> 
+          {% endfor %}
+        <copyright>&copy; 2023 Windsor Morris.</copyright>
+        </ul>
+      </div>
+    </nav>
+'''
