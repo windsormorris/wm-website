@@ -9,15 +9,12 @@ Keep up to date with what's happening with Windsor Morris
 Where can you see us in 2023?
 -----------------------------
 
-Sunday 1st May, all day
-: Jack in the Green, Hastings
-
 Saturday 13th May, 11am - 4pm
 : _Home tour_, dancing in Windsor with our guests [Chiltern Hundreds](http://www.chilternhundredsmorris.co.uk/), 
 [Ditchling Morris](https://www.ditchlingmorris.org/),
 [Eynsham Morris](https://eynshammorris.org.uk/), [Taeppa's Tump](https://www.taeppastump.co.uk/).
-:Two tours - 11:00 Thames Side (Boatman); 11:45 Peascod Street; 12:45 Castle Street (Two Brewers); 14:30 Alesandra Gardens; 15:30 Two Flints Brewery
-and 11:00 Thames Side; 11:45 Guildhall; 12:45 Eton Bridge; King Edward Court; 15:30 Two Flints Brewery
+:Two tours - 11:00 Peascod Street; 11:45 Guildhall/Prince Harry; 12:45 Castle Street (Two Brewers); 14:30 Alexandra Gardens; 15:30 Two Flints Brewery
+and 11:00 Peascod Street; 12:45 Eton Bridge; 14:30 Peascod Street; 15:30 Two Flints Brewery
 
 Saturday 20th May
 : Dancing in Oxford as guests of [Rockhopper Morris](https://rockhopper.halfgip.com/).
