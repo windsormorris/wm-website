@@ -13,7 +13,7 @@ Saturday 13th May, 11am - 4pm
 : _Home tour_, dancing in Windsor with our guests [Chiltern Hundreds](http://www.chilternhundredsmorris.co.uk/), 
 [Ditchling Morris](https://www.ditchlingmorris.org/),
 [Eynsham Morris](https://eynshammorris.org.uk/), [Taeppa's Tump](https://www.taeppastump.co.uk/).
-:Two tours - 11:00 Peascod Street; 11:45 Guildhall/Prince Harry; 12:45 Castle Street (Two Brewers); 14:30 Alexandra Gardens; 15:30 Two Flints Brewery
+: Two tours - 11:00 Peascod Street; 11:45 Guildhall/Prince Harry; 12:45 Castle Street (Two Brewers); 14:30 Alexandra Gardens; 15:30 Two Flints Brewery
 and 11:00 Peascod Street; 12:45 Eton Bridge; 14:30 Peascod Street; 15:30 Two Flints Brewery
 
 Saturday 20th May
