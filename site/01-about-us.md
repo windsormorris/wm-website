@@ -1,4 +1,6 @@
 
+<div id="google_translate_element"></div>
+
 About Us
 ========
 
@@ -31,3 +33,5 @@ In September 2011, a history of Windsor Morris was published in _English Dance a
 ss.org). In it you can read about the "interesting times" in the 1970s when it was revolutionary for women to dance the Morris.
 
 Here is our [programme](/) or you can [contact us](/contact-us) for more details.
+
+
