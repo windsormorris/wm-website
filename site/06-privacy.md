@@ -1,4 +1,4 @@
 Privacy Policy
 ==============
 
-We collect no personal data about you whatsoever. 
+We use no cookies and collect no personal data about you whatsoever. 
