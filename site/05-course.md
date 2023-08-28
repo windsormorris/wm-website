@@ -1,12 +1,12 @@
 Try for yourself!
 =================
 
-<div style='float:right; margin-left: 30px;' >
-  <img src='/img/laughing_bells.jpg' width='200px' />
-  <table width='200px'><tr>
-    <td style='margin-top:-0.1em; font-size: small;'>Even the bells love it!</td>
-    <td style='text-align: right; font-size: xx-small;'>&copy; 2011 Lucy Goddard</td>
-  </tr></table>
+<div style='float:right; margin-left: 10px; margin-right: 10px; width: 30% ' >
+  <img src='/img/laughing_bells.jpg' style='height: auto; max-width: 100%'/>
+  <table>
+    <tr><td style='font-size: 0.75em;'>Even the bells love it!</td></tr>
+    <tr><td style='font-size: 0.5em;'>&copy; 2011 Lucy Goddard</td></tr>
+  </table>
 </div>
 
 We're not all born Morris dancers! Few Morris dancers come from a Morris dancing 
@@ -18,7 +18,7 @@ This year, the course runs on **Wednesday Sept 20th, Sept 27th, and Oct 4th from
 
 You can find us at the [Gardeners Hall, St Leonards Rd, Windsor, SL4 3DR](https://www.google.co.uk/maps/place/Gardeners+Hall/@51.470932,-0.620298,16z)
 
-<a href='wm_contact.html'>Contact us</a> for further details or ijust turn up!
+<a href='wm_contact.html'>Contact us</a> for further details or just turn up!
 
 Although membership of Windsor Morris is by invitation only, 
 <b>everyone is welcome</b> to join us at these sessions.
