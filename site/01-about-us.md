@@ -24,9 +24,7 @@ We are easily spotted in our sparkling white kit, with splashes of green, red an
 
 We are often asked how we keep our kit sparkling white. Quite easy really - we avoid messy food, children and dogs, and don't sit down all day!
 
-<!--
 We [run a 'taster' course](course.html) every Autumn at which **you too** can learn to dance.
--->
 
 In September 2011, a history of Windsor Morris was published in _English Dance and Song_, the magazine of the [English Folk Dance and Song Society](http://www.efd
 ss.org). In it you can read about the "interesting times" in the 1970s when it was revolutionary for women to dance the Morris.

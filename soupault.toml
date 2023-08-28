@@ -15,7 +15,7 @@
   clean_urls = true
 
   # Where generated files go
-  build_dir = "build/"
+  build_dir = "public/"
 
   # Where page files are stored
   site_dir = "site/"
@@ -113,9 +113,24 @@
   selector = "head"
   html = """   
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.7/css/all.css">
-    <link rel="stylesheet" href="/styles/main.css" type="text/css">
     <link rel="stylesheet" href="/styles/menu.css" type="text/css">
     <link rel="stylesheet" href="/styles/wm.css" type="text/css">
+"""
+
+[widgets.insert-firebase]
+  path_regex = "members-only"
+  widget = "insert_html"
+  selector = "head"
+  html = """   
+    <script src="/scripts/firebase.js" type="module">
+"""
+
+[widgets.insert-members-authentication]
+  path_regex = "members/"
+  widget = "insert_html"
+  selector = "head"
+  html = """   
+    <script src="/scripts/members.js" type="module">
 """
 
 [widgets.insert-usual-logo]
@@ -145,6 +160,18 @@
     <a href='/'><img class='logo' 
       src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Will_Kemp_Elizabethan_Clown_Jig.jpg/200px-Will_Kemp_Elizabethan_Clown_Jig.jpg'></a>
 """
+
+[widgets.insert-google-translate]
+  path_regex = "about"
+  widget = "insert_html"
+  selector = "head"
+  html = """   
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+    }
+</script>"""
 
 [widgets.insert-chapters-index]
   widget = "chapters-index"

@@ -26,10 +26,10 @@ logo {
 div.toc span { margin-right: 5px; }
 
 content {
-  position: relative;
+  float: none;
+  position: absolute;
+  top: 105px;
   display: block;
-  top: 50px;
-  margin: 3%;
 }
 
 .figure {
@@ -70,19 +70,25 @@ dt {
 
 .float-right {
   float: right;
-  margin-left: 15px;
-  margin-right: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
+.float-right img {
+  object-fit: contain;
+  max-width: 100%;
+  height: auto;
+}
 .float-left {
   float: left;
-  margin-right: 15px;
-  margin-left: 5px;
+  margin-right: 10px;
+  margin-left: 10px;
 }
 
-/* Avoid elements wider than screen */
-img table {
-  max-width: 99%;
+.float-left img {
+  object-fit: contain;
+  max-width: 100%;
+  height: auto;
 }
 
 /* Common styles */
