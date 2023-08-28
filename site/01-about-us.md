@@ -3,7 +3,7 @@
 About Us
 ========
 
-As our name suggests, we are based in _Windsor_, in Berkshire, one of the 'Home Counties' to the west of London, England. The town is dominated by the magnificent castle, one of the Queen's main residences, which is portrayed in our logo.
+As our name suggests, we are based in _Windsor_, in Berkshire, one of the 'Home Counties' to the west of London, England. The town is dominated by the magnificent castle, one of the King's main residences, which is portrayed in our logo.
 
 The side was founded in 1974, which makes us one of the longest-established women's morris teams in the country.
 
@@ -16,7 +16,7 @@ Our dances are based on the styles performed at the end of the nineteenth centur
 In 2005 we adopted a new 'Tradition' (style of dance steps and figures), based on [_Minneapolis-on-Charles_](http://www.commonwealthmorris.org
 /repertoire.html), a style developed by [The Commonwealth Morris Men](http://www.commonwealthmorris.org/) in the USA. We first saw them dance it at the [Marlboro Morris Ale](https://www.facebook.com/MarlboroMorrisAle) in 1983, and learned the details from [Tim Radford](http://www.timradford.com/tim.html) at an Advanced Morris Weekend some twenty years later!  In homage to the original, we call it _Windsor-on-Thames_.
 
-<div class='float-left'><img src="/img/Cherry%20pointing.jpg" height="250"></div>
+<img class='float-left' src="/img/Cherry%20pointing.jpg" height="250" width='auto'></div>
 
 In summer we perform at venues in and around Windsor and further afield at festivals, and as guests of other Morris sides. Check out our [programme](/) for more details.
 
@@ -24,11 +24,11 @@ We are easily spotted in our sparkling white kit, with splashes of green, red an
 
 We are often asked how we keep our kit sparkling white. Quite easy really - we avoid messy food, children and dogs, and don't sit down all day!
 
-We [run a 'taster' course](course.html) every Autumn at which **you too** can learn to dance.
+We [run a 'taster' course](/course/) every Autumn at which **you too** can learn to dance.
 
 In September 2011, a history of Windsor Morris was published in _English Dance and Song_, the magazine of the [English Folk Dance and Song Society](http://www.efd
 ss.org). In it you can read about the "interesting times" in the 1970s when it was revolutionary for women to dance the Morris.
 
-Here is our [programme](/) or you can [contact us](/contact-us) for more details.
+Here is our [programme](/) or you can [contact us](/contact-us/) for more details.
 
 

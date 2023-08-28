@@ -50,10 +50,9 @@ Saturday 9th September
 Saturday 23rd September
 : Dancing in Hastings, 11:00 [Winkle Island](https://www.google.co.uk/maps/place/Winkle+Club+Statue/@50.8562606,0.5899405,17z/data=!4m14!1m7!3m6!1s0x47df1b85692f5377:0x55222b5cf20af299!2sWinkle+Club+Statue!8m2!3d50.8562606!4d0.5925154!16s%2Fg%2F11f7r7_x19!3m5!1s0x47df1b85692f5377:0x55222b5cf20af299!8m2!3d50.8562606!4d0.5925154!16s%2Fg%2F11f7r7_x19?entry=ttu); 11:45 [Butlers Gap](https://www.google.co.uk/maps/place/Butler's+Gap/@50.8563847,0.5874169,17z/data=!3m1!4b1!4m6!3m5!1s0x47df1bae41cb1269:0x73efe29061f09614!8m2!3d50.8563847!4d0.5899918!16s%2Fg%2F11f610_3t4?entry=ttu); 13:30 [St Clements Church, Hastings Old Town](https://www.google.co.uk/maps/place/St+Clements+C+Of+E+Church/@50.8573824,0.5726355,15z/data=!4m10!1m2!2m1!1sst+clements+hastings!3m6!1s0x47df1adbeb955f1f:0x27bff09261a3db24!8m2!3d50.8573601!4d0.590815!15sChRzdCBjbGVtZW50cyBoYXN0aW5nc5IBD2FuZ2xpY2FuX2NodXJjaOABAA!16s%2Fg%2F1vb9cbg1?entry=ttu).
 
-Errors and ommissions excepted!  All times and events subject to weather conditions and, perhaps, to change at short notice. If you are planning to make a trip to see us, please consider [contacting us](contact.html) for the latest arrangements.
+Errors and ommissions excepted!  All times and events subject to weather conditions and, perhaps, to change at short notice. If you are planning to make a trip to see us, please consider [contacting us](contact-us/) for the latest arrangements.
 
 --------------
-
 
 NB: You can also see archive video footage of Windsor Morris on 
 [our YouTube channel](https://www.youtube.com/channel/UCDRc8_V3YiwodSQXTxM__Lw).

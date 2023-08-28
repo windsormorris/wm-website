@@ -18,7 +18,7 @@ This year, the course runs on **Wednesday Sept 20th, Sept 27th, and Oct 4th from
 
 You can find us at the [Gardeners Hall, St Leonards Rd, Windsor, SL4 3DR](https://www.google.co.uk/maps/place/Gardeners+Hall/@51.470932,-0.620298,16z)
 
-<a href='wm_contact.html'>Contact us</a> for further details or just turn up!
+[Contact us](/contact-us/) for further details or just turn up!
 
 Although membership of Windsor Morris is by invitation only, 
 <b>everyone is welcome</b> to join us at these sessions.
