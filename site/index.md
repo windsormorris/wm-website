@@ -13,7 +13,7 @@ Keep up to date with what's happening with Windsor Morris
 Where can you see us in 2023?
 -----------------------------
 Saturday 6th May, 11am - 2pm
-: _Coronation Tour_, dancing in Windsor to delebrate the coronation of King Charless III.
+: _Coronation Tour_, dancing in Windsor to delebrate the coronation of King Charles III.
 
 Saturday 13th May, 11am - 4pm
 : _Home tour_, dancing in Windsor with our guests [Chiltern Hundreds](http://www.chilternhundredsmorris.co.uk/), 
