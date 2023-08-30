@@ -117,22 +117,6 @@
     <link rel="stylesheet" href="/styles/wm.css" type="text/css">
 """
 
-[widgets.insert-firebase]
-  path_regex = "members-only"
-  widget = "insert_html"
-  selector = "head"
-  html = """   
-    <script src="/scripts/firebase.js" type="module">
-"""
-
-[widgets.insert-members-authentication]
-  path_regex = "members/"
-  widget = "insert_html"
-  selector = "head"
-  html = """   
-    <script src="/scripts/members.js" type="module">
-"""
-
 [widgets.insert-usual-logo]
   widget = "insert_html"
   selector = "logo"
