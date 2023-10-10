@@ -5,9 +5,9 @@ About Us
 
 As our name suggests, we are based in _Windsor_, in Berkshire, one of the 'Home Counties' to the west of London, England. The town is dominated by the magnificent castle, one of the King's main residences, which is portrayed in our logo.
 
+<img class="img-right" src="/img/banner.jpg" alt="Windsor Morris dancing, with Windsor Castle in the background" title="that's Windsor Castle in the background" />
+ 
 The side was founded in 1974, which makes us one of the longest-established women's morris teams in the country.
-
-<img class="float-right" src="/img/Warwick%202005%20tn.jpeg" width='35%'>
 
 We are a friendly, energetic and enthusiastic group who enjoy dancing together and taking our dances to a variety of audiences. We get together every week, on a Wednesday evening, to work on perfecting our team-work, training up new dancers and musicians, and inventing new dances. The dancers in the team are all female, since we aim to have a consistent team style, but we do have male musicians. 
 
@@ -26,8 +26,7 @@ We are often asked how we keep our kit sparkling white. Quite easy really - we a
 
 We [run a 'taster' course](/course/) every Autumn at which **you too** can learn to dance.
 
-In September 2011, a history of Windsor Morris was published in _English Dance and Song_, the magazine of the [English Folk Dance and Song Society](http://www.efd
-ss.org). In it you can read about the "interesting times" in the 1970s when it was revolutionary for women to dance the Morris.
+In September 2011, a history of Windsor Morris was published in _English Dance and Song_, the magazine of the [English Folk Dance and Song Society](http://www.efdss.org). In it you can read about the "interesting times" in the 1970s when it was revolutionary for women to dance the Morris.
 
 Here is our [programme](/) or you can [contact us](/contact-us/) for more details.
 

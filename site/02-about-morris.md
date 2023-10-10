@@ -4,7 +4,6 @@ About the Morris
 ================
 
 In 1600, Shakespearean actor [Will Kempe](http://en.wikipedia.org/wiki/William_Kempe) danced from London to Norwich in what he later called his _Nine Daies Wonder._  
-<small>Photo credit: Wikipedia.</small>
 
 The earliest evidence of morris dancing dates from the 15th century, when royal courts and wealthy households throughout Europe were paying for ‘Morys’, ‘Morisk’, ‘Moresca’ or similarly named dancers – these were highly-paid professionals providing high-status entertainment. You might hear of morris dancing being a survival of pagan fertility rites, but this appears to be just a romantic myth.
 
@@ -14,4 +13,4 @@ Morris groups are all amateurs now. Like any street entertainment, we hope you w
 
 Windsor Morris are members of the [Morris Federation](http://www.morrisfed.org.uk).
 
-
+</a><small>Photo credit: Wikipedia.</small>

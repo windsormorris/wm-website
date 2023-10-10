@@ -14,12 +14,13 @@ body {
   margin: 1%;
 }
 
-logo {
+logo img {
   float: right;
+  margin-top: 10px;
+  margin-right: 5px; 
   height: 100px;
   width: 200px;
   object-fit: contain;
-  margin-right: 5px; 
   z-index: -1;
 }
 
@@ -68,27 +69,37 @@ dt {
   margin-top: 1.5em;
 }
 
-.float-right {
-  float: right;
-  margin-left: 10px;
-  margin-right: 10px;
-}
-
-.float-right img {
-  object-fit: contain;
-  max-width: 100%;
-  height: auto;
-}
 .float-left {
   float: left;
   margin-right: 10px;
   margin-left: 10px;
 }
 
-.float-left img {
-  object-fit: contain;
-  max-width: 100%;
-  height: auto;
+@media only screen and (orientation: landscape) {
+  .img-right {
+    float: right;
+    width: 35%;
+    height: auto;
+    margin-left: 6px;
+    margin-right: 6px;
+  }
+  .img-left {
+    float: left;
+    width: 35%;
+    height: auto;
+    margin-left: 6px;
+    margin-right: 6px;
+  }
+}
+@media only screen and not (orientation: landscape) {
+  .img-right, .img-left {
+    clear: both;
+    object-fit: scale-down;
+    max-width:98%;
+    height: auto;
+    padding-left: 6px;
+    padding-right: 6px;
+  }
 }
 
 /* Common styles */

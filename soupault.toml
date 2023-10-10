@@ -125,7 +125,7 @@
 """
 
 [widgets.insert-beach-logo]
-  path_regex = "about-us"
+  path_regex = "privacy|course"
   widget = "insert_html"
   selector = "logo"
   action = "replace_content"
@@ -141,8 +141,7 @@
   action = "replace_content"
   after = "insert-usual-logo"
   html = """   
-    <a href='/'><img class='logo' 
-      src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Will_Kemp_Elizabethan_Clown_Jig.jpg/200px-Will_Kemp_Elizabethan_Clown_Jig.jpg'></a>
+    <img     src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Will_Kemp_Elizabethan_Clown_Jig.jpg/200px-Will_Kemp_Elizabethan_Clown_Jig.jpg' />
 """
 
 [widgets.insert-google-translate]
