@@ -14,9 +14,9 @@ background; we tried it and loved it, and you can have a go too.
 
 Every year in the autumn, we run Wednesday evening taster sessions so you too can come along and find out what it's all about.
 
-This year, the course runs on **Wednesday Sept 20th, Sept 27th, and Oct 4th from 8pm**.  Do please come along, enjoy yourself and see what all the fuss is about!
+The next session will be on **Wednesday 25th October from 8pm**  Do please come along, enjoy yourself and see what all the fuss is about!
 
-You can find us at the [Gardeners Hall, St Leonards Rd, Windsor, SL4 3DR](https://www.google.co.uk/maps/place/Gardeners+Hall/@51.470932,-0.620298,16z)
+You can find us at the [Gardeners Hall, St Leonards Rd, Windsor, SL4 3DR](https://www.google.co.uk/maps/place/Gardeners+Hall/@51.470932,-0.620298,16z).
 
 [Contact us](/contact-us/) for further details or just turn up!
 

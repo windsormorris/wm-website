@@ -5,7 +5,7 @@ Windsor Morris
 
 We are a friendly, energetic and enthusiastic group who enjoy dancing together and taking our dances to a variety of audiences. 
 
-We [run a 'taster' course](course/) every Autumn at which **you too** can learn to Morris dance.
+We [run a 'taster' course](course/) every Autumn at which **you too** can learn to Morris dance. The next session will be on **Wednesday 25th October from 8pm at the Gardener's Hall, 213 St. Leonards Rd, Windsor SL4 3DR**
 
 Keep up to date with what's happening with Windsor Morris 
 <a href='https://www.facebook.com/windsormorrisdancers'>on Facebook<span class="stack fab fa-facebook-square"></span></a> and [Instagram](https://www.instagram.com/wmwindsormorris).
