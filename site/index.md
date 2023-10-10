@@ -12,4 +12,3 @@ Keep up to date with what's happening with Windsor Morris
 
 NB: You can also see archive video footage of Windsor Morris on 
 [our YouTube channel](https://www.youtube.com/channel/UCDRc8_V3YiwodSQXTxM__Lw).
-
