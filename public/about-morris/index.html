@@ -17,7 +17,8 @@
     }
   </script>
  </head>
- <body style="margin-right: 3%;">
+ <body style="margin-right: 3%;" onload="(function() {
+      var links = document.body.getElementsByTagName(" a");="" var="" linkcount="links.length;" for="" (var="" i="0;" <="" linkcount;="" i++)="" {="" if="" (new="" url(links[i].href).origin="" !="=" location.origin)="" links[i].setattribute('target',="" '_blank');="" }="" })();"="">
   <logo>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Will_Kemp_Elizabethan_Clown_Jig.jpg/200px-Will_Kemp_Elizabethan_Clown_Jig.jpg">
   </logo>

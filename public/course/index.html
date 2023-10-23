@@ -11,7 +11,8 @@
   <link rel="stylesheet" href="/styles/menu.css" type="text/css">
   <link rel="stylesheet" href="/styles/wm.css" type="text/css">
  </head>
- <body style="margin-right: 3%;">
+ <body style="margin-right: 3%;" onload="(function() {
+      var links = document.body.getElementsByTagName(" a");="" var="" linkcount="links.length;" for="" (var="" i="0;" <="" linkcount;="" i++)="" {="" if="" (new="" url(links[i].href).origin="" !="=" location.origin)="" links[i].setattribute('target',="" '_blank');="" }="" })();"="">
   <logo>
    <a href="/"><img class="logo" src="/img/programme_logo.jpg"></a>
   </logo>
