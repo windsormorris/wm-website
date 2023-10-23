@@ -26,7 +26,7 @@ We are often asked how we keep our kit sparkling white. Quite easy really - we a
 
 We [run a 'taster' course](/course/) every Autumn at which **you too** can learn to dance.
 
-In September 2011, a history of Windsor Morris was published in _English Dance and Song_, the magazine of the [English Folk Dance and Song Society](http://www.efdss.org). In it you can read about the "interesting times" in the 1970s when it was revolutionary for women to dance the Morris.
+In September 2011, Shirley Dixon, our foreman (instructor) at the time, wrote [a brief history of Windsor Morris](/doc/EFDSSarticle.pdf) where you can read about the "interesting times" in the 1970s when it was revolutionary for women to dance the Morris. This was originally published in _English Dance and Song_, the members' magazine of the [English Folk Dance and Song Society](http://www.efdss.org/support/join-us) and has been reproduced by kind permission of the Society. 
 
 Here is our [programme](/) or you can [contact us](/contact-us/) for more details.
 

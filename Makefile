@@ -1,6 +1,6 @@
 build:	public/index.html
 	
-test: public/index.html
+test: force
 	cd public; python3 -m http.server
 	
 force:
@@ -9,7 +9,7 @@ force:
 clean:
 	rm -r public/
 	
-publish: public/index.html
+publish: force
 	git add .
 	git commit -m 'latest updates'
 	git push
