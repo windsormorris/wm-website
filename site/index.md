@@ -9,9 +9,6 @@ We are a friendly, energetic and enthusiastic group who enjoy dancing together a
 Where can you see us in 2024?
 ----------------------------
 
-Sunday 1st May, all day
-: Jack in the Green, Hastings
-
 Saturday 11th May, 11am - 4pm
 : _Home tour_, dancing in Windsor with our guests [Campden Morris](https://www.facebook.com/groups/1107987459245720/), [Seven Champions](https://www.facebook.com/groups/sevenchampionsfans/) and [Seven Sisters](https://www.facebook.com/sevensistersmolly/)
 :Tour details to be confirmed.
