@@ -11,7 +11,7 @@ Where can you see us in 2024?
 
 Saturday 11th May, 11am - 4pm
 : _Home tour_, dancing in Windsor with our guests [Campden Morris](https://www.facebook.com/groups/1107987459245720/), [Seven Champions](https://www.facebook.com/groups/sevenchampionsfans/) and [Seven Sisters](https://www.facebook.com/sevensistersmolly/)
-:Tour details to be confirmed.
+:11am Peascond Street by Caffe Nero; 12:05 Bachelor's Acre; 14:00 Prince Harry/Guildhall; 15:00 Boatman, Thameside.
 
 Saturday 25th - Monday 27th May
 : Dancing in and around Marlboro, Vermont, USA at the [Marlboro Morris Ale](https://www.facebook.com/MarlboroMorrisAle/)

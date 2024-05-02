@@ -1,3 +1,8 @@
+publish: force
+	git add .
+	git commit -m 'latest updates'
+	git push
+	
 build:	public/index.html
 	
 test: force
@@ -8,11 +13,6 @@ force:
   
 clean:
 	rm -r public/
-	
-publish: force
-	git add .
-	git commit -m 'latest updates'
-	git push
 	
 public/index.html: site/index.md
 	soupault --build
