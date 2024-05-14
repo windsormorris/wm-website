@@ -10,7 +10,7 @@ Where can you see us in 2024?
 ----------------------------
 
 Saturday 11th May, 11am - 4pm
-: _Home tour_, dancing in Windsor with our guests [Campden Morris](https://www.facebook.com/groups/1107987459245720/), [Seven Champions](https://www.facebook.com/groups/sevenchampionsfans/) and [Seven Sisters](https://www.facebook.com/sevensistersmolly/)
+: _Home tour_, dancing in Windsor with our guests [Campden Morris](https://www.facebook.com/groups/1107987459245720/), [Seven Champions](https://www.facebook.com/groups/sevenchampionsfans/) and [Seven Sisters](https://www.facebook.com/sevensistersmolly/).
 : 11am Peascod Street by Caffe Nero; 12:05 Bachelor's Acre; 14:00 Prince Harry/Guildhall; 15:00 Boatman, Thameside.
 
 Saturday 25th - Monday 27th May
