@@ -20,7 +20,8 @@ Saturday 22nd June
 : Dancing at the [Mock Mayor Making](https://www.abingdon.gov.uk/discover-abingdon/witness-a-living-tradition/election-of-the-mayor-of-ock-street), Abingdon, as guests of [Abingdon Traditional Morris Dancers](http://atmd.org.uk/).
 
 Saturday 29th June, 11am - 4pm
-: _Home tour_, dancing in Windsor with our guests [Bampton Traditional Morris Dancers](https://traditionalbamptonmorris.org.uk/); [Customs and Exiles](https://www.facebook.com/customsandexiles/); [Hammersmith Morris](https://www.hammersmithmorris.org.uk/); and [Pilgrim Morris](https://www.facebook.com/pilgrimmorrisguildford/) of Guidlford;  
+: _Home tour_, dancing in Windsor with our guests [Bampton Traditional Morris Dancers](https://traditionalbamptonmorris.org.uk/); [Customs and Exiles](https://www.facebook.com/customsandexiles/); [Hammersmith Morris](https://www.hammersmithmorris.org.uk/); and [Pilgrim Morris](https://www.facebook.com/pilgrimmorrisguildford/) of Guidlford.
+: 11am Peascod Street by Caffe Nero; 12noon Two Brewers, Park Street; 1:45pm Windsor Royal Station by All Bar One; 3pm Alexandra Gardens, performing at the Rotary Club Summer Fayre; 4pm Two Flints Brwery and Indie Rabble, The Arches, SL4 1QZ.  [(Venue map)](https://www.google.com/maps/d/edit?mid=1p2cycEyV1LMDD0CY6KmrqR5Wfn-eArM&usp=sharing)
 
 Sunday 1st September
 : Dancing at [Wallingford Bunkfest](http://www.bunkfest.co.uk/).
