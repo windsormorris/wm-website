@@ -28,6 +28,7 @@ Sunday 1st September
 
 Saturday 14th September
 : _Home tour_, dancing in Windsor with guests [Mabel Gubbins Rapper](http://www.mabelgubbins.co.uk/); [New Esperance Morris](https://newesperance.wordpress.com/); [Gog Magog Molly](https://gogmagogmolly.org.uk/); and [Hastings RX Morris](https://hastingsrxmorris.org.uk/).
+: 11am Peascod Street by Caffe Nero, SL4 1DE; 12:00 Two Brewers, Park Street, SL4 1LB; 2pm Prince Harry/Guildhall, SL4 1PB; 3pm Thames Street (Eton Bridge) by Sir Christoher Wren Hotel, SL4 1PX; 4pm Boatman, Thameside, SL4 1QN.
 
 Errors and ommissions excepted!  All times and events subject to weather conditions and, perhaps, to change at short notice. If you are planning to make a trip to see us, please consider [contacting us](contact.html) for the latest arrangements.
 

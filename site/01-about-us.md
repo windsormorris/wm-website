@@ -3,10 +3,12 @@
 About Us
 ========
 
+<div class="img-right">
+  <img src="/img/banner3.jpg" alt="Windsor Morris dancing, with Windsor Castle in the background" title="that's Windsor Castle in the background" /><br/><span style="font-size: xx-small;">Photo credit: Ben Potton</span>
+</div>
+
 As our name suggests, we are based in _Windsor_, in Berkshire, one of the 'Home Counties' to the west of London, England. The town is dominated by the magnificent castle, one of the King's main residences, which is portrayed in our logo.
 
-<img class="img-right" src="/img/banner.jpg" alt="Windsor Morris dancing, with Windsor Castle in the background" title="that's Windsor Castle in the background" />
- 
 The side was founded in 1974, which makes us one of the longest-established women's morris teams in the country.
 
 We are a friendly, energetic and enthusiastic group who enjoy dancing together and taking our dances to a variety of audiences. We get together every week, on a Wednesday evening, to work on perfecting our team-work, training up new dancers and musicians, and inventing new dances. The dancers in the team are all female, since we aim to have a consistent team style, but we do have male musicians. 
