@@ -14,3 +14,7 @@ Morris groups are all amateurs now. Like any street entertainment, we hope you w
 Windsor Morris are members of the [Morris Federation](http://www.morrisfed.org.uk).
 
 </a><small>Photo credit: Wikipedia.</small>
+
+If you want to find a Morris team near you (assuming that's not us!) you can use the Morris Federation's ["Team Finder"](https://www.morrisfed.org.uk/teamfinder/#!directory/map). 
+
+
