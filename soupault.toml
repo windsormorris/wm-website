@@ -141,7 +141,10 @@
   action = "replace_content"
   after = "insert-usual-logo"
   html = """   
-    <img     src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Will_Kemp_Elizabethan_Clown_Jig.jpg/200px-Will_Kemp_Elizabethan_Clown_Jig.jpg' />
+    <a href='/'><div>
+      <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Will_Kemp_Elizabethan_Clown_Jig.jpg/200px-Will_Kemp_Elizabethan_Clown_Jig.jpg' />
+      <span>Photo: Wikipedia.</span>
+    </div></a>
 """
 
 [widgets.insert-google-translate]
@@ -216,7 +219,7 @@
           {% for e in entries %}
             <a href="{{e.url}}"><li>{{e.title}}</li></a> 
           {% endfor %}
-        <copyright>&copy; 2023 Windsor Morris.</copyright>
+        <copyright>&copy; 2024 Windsor Morris.</copyright>
         </ul>
       </div>
     </nav>

@@ -14,14 +14,20 @@ body {
   margin: 2%;
 }
 
-logo img {
+logo img, logo div {
   float: right;
-  margin-top: 10px;
-  margin-right: 5px; 
+  text-align: right;
   height: 100px;
   width: 200px;
   object-fit: contain;
   z-index: -1;
+}
+
+logo span {
+  float: right;
+  text-align: right;
+  margin-right: 5px;
+  font-size: xx-small;
 }
 
 div.toc span { margin-right: 5px; }
@@ -53,13 +59,14 @@ copyright {
 }
 
 h1 { 
-  font-size: 14pt; 
+  font-size: 16pt; 
   font-weight: bold;
   color: green;
 }
 
-h2 { 
-  font-size: 12pt; 
+h2 {
+  margin-top: 14pt;
+  font-size: 14pt; 
   font-weight: bold;
   color: green;
 }

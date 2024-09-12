@@ -2,7 +2,7 @@
 Windsor Morris
 ==============
 
-<img class="img-right" src="/img/FrontPage.jpg" alt="Dancers dancing" />
+<img class="img-right" src="/img/FrontPage.jpg" alt="Dancers dancing" style="margin-top: 25px" />
 
 We are a friendly, energetic and enthusiastic group who enjoy dancing together and taking our dances to a variety of audiences. 
 
