@@ -19,7 +19,7 @@ logo img, logo div {
   text-align: right;
   height: 100px;
   width: 200px;
-  object-fit: contain;
+  object-fit: scale-down;
   z-index: -1;
 }
 
@@ -104,8 +104,12 @@ dt {
     object-fit: scale-down;
     max-width:98%;
     height: auto;
-    padding-left: 6px;
-    padding-right: 6px;
+    max-height: 25%
+  }
+  .img-right img, .img-left img {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
   }
 }
 

@@ -125,7 +125,7 @@
 """
 
 [widgets.insert-beach-logo]
-  path_regex = "privacy|course"
+  path_regex = "course"
   widget = "insert_html"
   selector = "logo"
   action = "replace_content"

@@ -7,8 +7,8 @@ For any enquires, please contact:-
     Jerry West 01252 628 190 <b>email</b>: secretary -at- windsormorris.org.uk
 
 Our other officers are:-
-  <p><em>Squire</em>: Rhiannon Thomas</p>
-  <p><em>Foreman</em>: Emma Wooders &amp; Penny Pinder</p>
-  <p><em>Treasurer</em>: Selam Adamu</p>
-  <p><em>Publicity</em>: Marian Ballhatchet</p>
+  <p><em>Joint Squire</em>: Eleanor &amp; Kate</p>
+  <p><em>Joint Foreman</em>: Emma &amp; Penny</p>
+  <p><em>Treasurer</em>: Sel</p>
+  <p><em>Publicity</em>: Marian</p>
 
