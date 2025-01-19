@@ -32,6 +32,7 @@
   # All other files are considered assets and copied unchanged
   page_file_extensions = ["html", "md"]
 
+  # assume HTML5
   doctype = "<!DOCTYPE html>"
 
 ## Preprocessors convert non-HTML files to HTML
@@ -39,8 +40,8 @@
 [preprocessors]
   md = "pandoc -f markdown -t html"
 
-# Removes the chapter number from the output path
-# e.g. book/00-preface.md becomes build/preface/
+# Removes the "webpage number" from the output path
+# e.g. site/01-about-us.md becomes public/about-us/
 [hooks.pre-process]
   lua_source = '''
     target_file_name = Sys.basename(target_file)
@@ -56,38 +57,40 @@
     Log.debug(format("Target file name set to \"%s\"", target_file))
 '''
 
-## 
+## Find all the page numbers to build the menu
 [hooks.post-index]
   lua_source = '''
-    Log.debug("Extracting chapter number")
+    Log.debug("Extracting page number")
     page_file_name = Sys.basename(page_file)
     res = Regex.find_all(page_file_name, "^(\\d+)")
 
     if res then
-      chapter_number = res[1]
+      webpage_number = res[1]
     else
-      chapter_number = 0
+      webpage_number = 0
     end
 
-    index_fields["chapter_number"] = format("%s", chapter_number)
+    index_fields["webpage_number"] = format("%s", webpage_number)
 
-    Log.debug(format("Extracted chapter number: %s", chapter_number))
+    Log.debug(format("Extracted page number: %s", webpage_number))
 '''
 
+## build the index (menu) data to put on every page in second pass
 [index]
   index = true
 
-  # Make the index data available even to content pages,
-  # at cost of making a reduced first pass to extract that data before the "real" build
-  # This is to generate the sidebar with the chapter list on every page
+  # Make the index data available even to content pages, at cost of 
+  # making a reduced first pass to extract that data before the "real" build
   index_first = true
 
-  sort_by = "chapter_number"
+  sort_by = "webpage_number"
   sort_type = "numeric"
   sort_descending = false
 
 [index.fields]
   title = { selector = "h1" }
+  
+## other index data not used currently...
 
 [index.fields.date]
   selector = ["time#post-date", "time"]
@@ -159,27 +162,37 @@
     }
 </script>"""
 
-[widgets.insert-chapters-index]
+[widgets.insert-hamburger-menu]
   widget = "chapters-index"
 
-  index_selector = "div#chapters-index"
+  index_selector = "div#hamburger-menu"
 
   index_template = '''
-    <ul class="toc">
-      <li> <a href="/">Our Programme</a> </li>
-      {% for e in entries %}
-      <li> <a href="{{e.url}}">{{e.title}}</a> </li>
-      {% endfor %}
-    </ul>
-    <div style='margin: 20px 0 0 3em;'>
-      <div>
-        <a href='https://www.facebook.com/windsormorrisdancers'>Facebook<span class="fab fa-facebook-square"></span></a>
-      </div>
-      <div>
-        <a href='https://www.twitter.com/WMwindsormorris'>Twitter<span class="fab fa-twitter-square"></span></a>
-      </div>
+    <nav role="navigation">
+      <div id="menuToggle">
+        <!-- A fake / hidden checkbox is used as click reciever,
+          so you can use the :checked selector on it in menu.css -->
+        <input type="checkbox" />
+        
+        <!-- Some spans to act as a hamburger. -->
+        <span></span>
+        <span></span>
+        <span></span>
+        
+        <!-- Too bad the menu has to be inside of the button, but hey, it's pure CSS magic. -->
+        <ul id="menu" class="toc">
+          <a href="/"><li> Our Programme</li></a> 
+          {% for e in entries %}
+            <a href="{{e.url}}"><li>{{e.title}}</li></a> 
+          {% endfor %}
+          <li>
+            <copyright>&copy; 2019-2025 Windsor Morris.</copyright>
+          </li>
+        </ul>
     </div>
+  </nav>
 '''
+##  breadcrumbs, not currently used...
 
 [widgets.insert-horizontal-navigation]
   widget = "chapters-index"
@@ -193,36 +206,4 @@
       <span> <a href="{{e.url}}">{{e.title}}</a> </span>
       {% endfor %}
     </div>
-'''
-
-[widgets.insert-hamburger-menu]
-  widget = "chapters-index"
-
-  index_selector = "div#hamburger-menu"
-
-  index_template = '''
-    <nav role="navigation">
-      <div id="menuToggle">
-        <!-- A fake / hidden checkbox is used as click reciever,
-          so you can use the :checked selector on it. -->
-        <input type="checkbox" />
-        
-        <!-- Some spans to act as a hamburger. -->
-        <span></span>
-        <span></span>
-        <span></span>
-        
-        <!-- Too bad the menu has to be inside of the button
-          but hey, it's pure CSS magic. -->
-        <ul id="menu" class="toc">
-          <a href="/"><li> Our Programme</li></a> 
-          {% for e in entries %}
-            <a href="{{e.url}}"><li>{{e.title}}</li></a> 
-          {% endfor %}
-          <li>
-            <copyright>&copy; 2019-2025 Windsor Morris.</copyright>
-          </li>
-        </ul>
-    </div>
-  </nav>
 '''

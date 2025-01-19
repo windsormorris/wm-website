@@ -44,7 +44,7 @@ Saturday 27th - Sunday 28th September
 
 <hr />
 
-<small>Errors and ommissions excepted!  All times and events subject to weather conditions and, perhaps, to change at short notice. If you are planning to make a trip to see us, please consider [contacting us](contact.html) for the latest arrangements.</small>
+<small>Errors and ommissions excepted!  All times and events subject to weather conditions and, perhaps, to change at short notice. If you are planning to make a trip to see us, please consider [contacting us](contact-us/) for the latest arrangements.</small>
 
 Keep up to date with what's happening with Windsor Morris 
 <a href='https://www.facebook.com/windsormorrisdancers'>on Facebook<i class="stack fab fa-facebook-square"></i></a> and [Instagram](https://www.instagram.com/wmwindsormorris)<i class="stack fab fa-instagram"></i>.
