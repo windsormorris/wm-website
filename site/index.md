@@ -21,7 +21,7 @@ Sunday 15th June
 
 Saturday 12th and Sunday 13th July, 11am - 4pm
 : _Home tour_, dancing in Windsor (Saurday) and Newbury (Sunday) to celebrate our own 50th Anniversary with our guests [Great Western Morris](https://www.great-western.org.uk/) from Exteter; [Sheffield City Morris](https://sheffieldcitymorris.org.uk/); and [Chinewrde Morris](http://www.chinewrde.co.uk/) of Kenilworth.
-: details to be announced
+: Stay tuned for more details nearer the time.
 
 Saturday 2nd - Friday 8th August
 : Dancing at the [Sidmouth Folk Festival](https://sidmouthfolkfestival.co.uk/). 

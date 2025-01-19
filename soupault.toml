@@ -219,8 +219,10 @@
           {% for e in entries %}
             <a href="{{e.url}}"><li>{{e.title}}</li></a> 
           {% endfor %}
-        <copyright>&copy; 2024 Windsor Morris.</copyright>
+          <li>
+            <copyright>&copy; 2019-2025 Windsor Morris.</copyright>
+          </li>
         </ul>
-      </div>
-    </nav>
+    </div>
+  </nav>
 '''

@@ -8,7 +8,7 @@ background; we tried it and loved it, and you can have a go too.
 
 Every year in the autumn, we run Wednesday evening taster sessions so you too can come along and find out what it's all about.
 
-The next session will be on **Wednesday 18th September from 8pm**.  Do please come along, enjoy yourself and see what all the fuss is about!
+The next session will be on **Wednesday 1st October from 8pm**.  Do please come along, enjoy yourself and see what all the fuss is about!
 
 You can find us at the [Gardeners Hall, St Leonards Rd, Windsor, SL4 3DR](https://www.google.co.uk/maps/place/Gardeners+Hall/@51.470932,-0.620298,16z).
 
