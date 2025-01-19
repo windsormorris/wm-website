@@ -6,22 +6,41 @@ Windsor Morris
 
 We are a friendly, energetic and enthusiastic group who enjoy dancing together and taking our dances to a variety of audiences. 
 
-Try for yourself!
------------------
+Where can you see us in 2025?
+-----------------------------
 
-We're not all born Morris dancers! Few Morris dancers come from a Morris dancing 
-background; we tried it and loved it, and you can have a go too.
+Saturday 26th April
+: guests of [Adderbury Morris Men](https://www.adderburymorris.org.uk/) to help celebrate their 50th Anniversary.
 
-Every year in the autumn, we run three **taster sessions** so you too can come along and find out what it's all about.
+Saturday 10th May, 11am - 4pm
+: _Home tour_, dancing in Windsor with local guest teams. 
+: Stay tuned for more details nearer the time.
 
-This year, the sessions will be on **Wednesday 18th and 25th September and the 2nd October, all starting at 8pm**.  Do please come along on any or all of these dates, enjoy yourself and see what all the fuss is about!
+Sunday 15th June
+: Dancing at the [Kirtlington Lamb Ale](https://kirtlington-morris.org.uk/kirtlington-lamb-ale-2/), as guests of [Kirtlington Morris](https://kirtlington-morris.org.uk/).
 
-You can find us at the [Gardeners Hall, St Leonards Rd, Windsor, SL4 3DR](https://www.google.co.uk/maps/place/Gardeners+Hall/@51.470932,-0.620298,16z).
+Saturday 12th and Sunday 13th July, 11am - 4pm
+: _Home tour_, dancing in Windsor (Saurday) and Newbury (Sunday) to celebrate our own 50th Anniversary with our guests [Great Western Morris](https://www.great-western.org.uk/) from Exteter; [Sheffield City Morris](https://sheffieldcitymorris.org.uk/); and [Chinewrde Morris](http://www.chinewrde.co.uk/) of Kenilworth.
+: details to be announced
 
-[Contact us](/contact-us/) for further details or just turn up!
+Saturday 2nd - Friday 8th August
+: Dancing at the [Sidmouth Folk Festival](https://sidmouthfolkfestival.co.uk/). 
+: For full details see [their programme](https://sidmouthfolkfestival.co.uk/display-dance/) when it is published later this year.
 
-Although membership of Windsor Morris is by invitation only, 
-<b>everyone is welcome</b> to join us at these sessions.
+Saturday 23rd - Monday 25th August
+: Dancing at the [Shrewsbury Folk Festival](https://shrewsburyfolkfestival.co.uk/). 
+: For full details see [their programme](https://shrewsburyfolkfestival.co.uk/line-up/morrisanddancesides/) when it is published later this year.
+
+Sunday 31st August
+: Dancing at [Wallingford Bunkfest](http://www.bunkfest.co.uk/).
+
+Saturday 6th September
+: _Home tour_, dancing in Windsor with local guest teams. 
+: Stay tuned for more details nearer the time.
+
+Saturday 27th - Sunday 28th September
+: Team weekend away in and around Sheffield, dancing at [The Morris Federation's Day of Dance and AGM](https://www.morrisfed.org.uk/event/morris-federation-day-of-dance-and-agm-2025/)
+
 
 <hr />
 
