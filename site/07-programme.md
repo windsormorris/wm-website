@@ -1,25 +1,34 @@
-Where were in 2024?
--------------------
+Where can you see us in 2025?
+-----------------------------
 
-Saturday 11th May, 11am - 4pm
-: _Home tour_, dancing in Windsor with our guests [Campden Morris](https://www.facebook.com/groups/1107987459245720/), [Seven Champions](https://www.facebook.com/groups/sevenchampionsfans/) and [Seven Sisters](https://www.facebook.com/sevensistersmolly/).
-: 11am Peascod Street by Caffe Nero; 12:05 Bachelor's Acre; 14:00 Prince Harry/Guildhall; 15:00 Boatman, Thameside.
+Saturday 26th April
+: guests of [Adderbury Morris Men](https://www.adderburymorris.org.uk/) to help celebrate their 50th Anniversary.
 
-Saturday 25th - Monday 27th May
-: Dancing in and around Marlboro, Vermont, USA at the [Marlboro Morris Ale](https://www.facebook.com/MarlboroMorrisAle/)
+Saturday 10th May, 11am - 4pm
+: _Home tour_, dancing in Windsor with local guest teams. 
+: Stay tuned for more details nearer the time.
 
-Saturday 22nd June
-: Dancing at the [Mock Mayor Making](https://www.abingdon.gov.uk/discover-abingdon/witness-a-living-tradition/election-of-the-mayor-of-ock-street), Abingdon, as guests of [Abingdon Traditional Morris Dancers](http://atmd.org.uk/).
+Sunday 15th June
+: Dancing at the [Kirtlington Lamb Ale](https://kirtlington-morris.org.uk/kirtlington-lamb-ale-2/), as guests of [Kirtlington Morris](https://kirtlington-morris.org.uk/).
 
-Saturday 29th June, 11am - 4pm
-: _Home tour_, dancing in Windsor with our guests [Bampton Traditional Morris Dancers](https://bamptontraditionalmorris.co.uk/); [Customs and Exiles](https://www.facebook.com/customsandexiles/); [Hammersmith Morris](https://www.hammersmithmorris.org.uk/); and [Pilgrim Morris](https://www.facebook.com/pilgrimmorrisguildford/) of Guidlford.
-: 11am Peascod Street by Caffe Nero; 12noon Two Brewers, Park Street; 1:45pm Windsor Royal Station by All Bar One; 3pm Alexandra Gardens, performing at the Rotary Club Summer Fayre; 4pm Two Flints Brwery and Indie Rabble, The Arches, SL4 1QZ.  [(Venue map)](https://www.google.com/maps/d/edit?mid=1p2cycEyV1LMDD0CY6KmrqR5Wfn-eArM&usp=sharing)
+Saturday 12th and Sunday 13th July, 11am - 4pm
+: _Home tour_, dancing in Windsor (Saurday) and Newbury (Sunday) to celebrate our own 50th Anniversary with our guests [Great Western Morris](https://www.great-western.org.uk/) from Exteter; [Sheffield City Morris](https://sheffieldcitymorris.org.uk/); and [Chinewrde Morris](http://www.chinewrde.co.uk/) of Kenilworth.
+: details to be announced
 
-Sunday 1st September
+Saturday 2nd - Friday 8th August
+: Dancing at the [Sidmouth Folk Festival](https://sidmouthfolkfestival.co.uk/). 
+: For full details see [their programme](https://sidmouthfolkfestival.co.uk/display-dance/) when it is published later this year.
+
+Saturday 23rd - Monday 25th August
+: Dancing at the [Shrewsbury Folk Festival](https://shrewsburyfolkfestival.co.uk/). 
+: For full details see [their programme](https://shrewsburyfolkfestival.co.uk/line-up/morrisanddancesides/) when it is published later this year.
+
+Sunday 31st August
 : Dancing at [Wallingford Bunkfest](http://www.bunkfest.co.uk/).
 
-Saturday 14th September
-: _Home tour_, dancing in Windsor with guests [Mabel Gubbins Rapper](http://www.mabelgubbins.co.uk/); [Gog Magog Molly](https://gogmagogmolly.org.uk/); and [Hastings RX Morris](https://hastingsrxmorris.org.uk/).
-: 11am Peascod Street by Caffe Nero, SL4 1DE; 12:00 Two Brewers, Park Street, SL4 1LB; 2pm Prince Harry/Guildhall, SL4 1PB; 3pm Thames Street (Eton Bridge) by Sir Christoher Wren Hotel, SL4 1PX; 4pm Boatman, Thameside, SL4 1QN.
+Saturday 6th September
+: _Home tour_, dancing in Windsor with local guest teams. 
+: Stay tuned for more details nearer the time.
 
-
+Saturday 27th - Sunday 28th September
+: Team weekend away in and around Sheffield, dancing at [The Morris Federation's Day of Dance and AGM](https://www.morrisfed.org.uk/event/morris-federation-day-of-dance-and-agm-2025/)
