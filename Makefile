@@ -1,7 +1,9 @@
 publish: force
 	git add .
 	git commit -m 'latest updates'
-	git push
+	eval "$(ssh-agent -s)"
+	ssh-add /home/jjw/.ssh/wm_github
+	git push ssh://git@ssh.github.com:443/windsormorris/wm-website
 	
 build:	public/index.html
 	
