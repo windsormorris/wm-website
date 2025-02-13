@@ -10,10 +10,17 @@ Where can you see us in 2025?
 -----------------------------
 
 Saturday 26th April
-: guests of [Adderbury Morris Men](https://www.adderburymorris.org.uk/) to help celebrate their 50th Anniversary.
+: from 12noon, dancing in Banbury with the world famous [Hammersmith Morris](https://www.hammersmithmorris.org.uk/); and from 4pm in Adderbury as guests of [Adderbury Morris Men](https://www.adderburymorris.org.uk/) to help celebrate their 50th Anniversary.
 
 Saturday 10th May, 11am - 4pm
 : _Home tour_, dancing in Windsor with local guest teams. 
+: Stay tuned for more details nearer the time.
+
+Saturday 17th May
+: To celebrate the fact that we danced out for the first time exactly 50 years ago this day
+: Stay tuned for more details nearer the time.
+
+Saturday 7th June - TBC
 : Stay tuned for more details nearer the time.
 
 Sunday 15th June
