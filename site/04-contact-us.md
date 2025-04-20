@@ -4,7 +4,7 @@ Contact Us
 For any enquires, please contact:-
 
   <em>Secretary</em>:
-    Jerry West 01252 628 190 <b>email</b>: secretary -at- windsormorris.org.uk
+    Jerry West 07954 425 170 <b>email</b>: secretary -at- windsormorris.org.uk
 
 Our other officers are:-
   <p><em>Joint Squire</em>: Eleanor &amp; Kate; <b>email</b>: squire -at- windsormorris.org.uk</p>
