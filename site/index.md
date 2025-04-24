@@ -10,7 +10,7 @@ Where can you see us in 2025?
 -----------------------------
 
 Saturday 26th April
-: from 12noon, dancing in Banbury with the world famous [Hammersmith Morris](https://www.hammersmithmorris.org.uk/); and from 4pm in Adderbury as guests of [Adderbury Morris Men](https://www.adderburymorris.org.uk/) to help celebrate their 50th Anniversary.
+: from 12noon, dancing in Banbury with the world famous [Hammersmith Morris](https://www.hammersmithmorris.org.uk/); and from 4pm in Adderbury as guests of [Adderbury Morris Men](https://www.adderburymorris.org.uk/) to celebrate their 50th Anniversary.
 
 Saturday 10th May, 11am - 4pm
 : _Home tour_, dancing in Windsor with guests [Black Annis](https://blackannismorris.org/). 
@@ -20,16 +20,15 @@ Saturday 17th May
 : [Cock & Rabbit](https://camra.org.uk/pubs/cock-rabbit-the-lee-165398), Great Missenden, to celebrate the fact that we danced out there for the first time exactly 50 years ago this day
 : Stay tuned for more details nearer the time.
 
-Saturday 7th June - TBC
+Saturday 7th June - 1pm
 : Dancing at the [Thames Valley Adventure Playground](https://www.tvap.co.uk/).
-: Stay tuned for more details nearer the time.
 
 Sunday 15th June
 : Dancing at the [Kirtlington Lamb Ale](https://kirtlington-morris.org.uk/kirtlington-lamb-ale-2/), as guests of [Kirtlington Morris](https://kirtlington-morris.org.uk/).
 
 Saturday 12th and Sunday 13th July, 11am - 4pm
-: _Home tour_, dancing in Windsor (Saurday) and Newbury (Sunday) to celebrate our own 50th Anniversary with our guests  
-: [Great Western Morris](https://www.great-western.org.uk/) from Exteter; [Sheffield City Morris](https://sheffieldcitymorris.org.uk/); [Chinewrde Morris](http://www.chinewrde.co.uk/) of Kenilworth; [Seven Champions](https://www.facebook.com/groups/sevenchampionsfans/) and [Seven Sisters Molly Dancers](https://www.facebook.com/sevensistersmolly/).
+: _Home tour_, dancing in Windsor (Saturday) and Newbury (Sunday) to celebrate our 50th Anniversary with our guests  
+: [Great Western Morris](https://www.great-western.org.uk/) from Exteter; [Sheffield City Morris](https://sheffieldcitymorris.org.uk/); [Chinewrde Morris](http://www.chinewrde.co.uk/) of Kenilworth; and [Seven Champions](https://www.facebook.com/groups/sevenchampionsfans/).
 : Stay tuned for more details nearer the time.
 
 Saturday 2nd - Friday 8th August
@@ -49,7 +48,6 @@ Saturday 6th September
 
 Saturday 27th - Sunday 28th September
 : Team weekend away in and around Sheffield, dancing at [The Morris Federation's Day of Dance and AGM](https://www.morrisfed.org.uk/event/morris-federation-day-of-dance-and-agm-2025/)
-
 
 <hr />
 
