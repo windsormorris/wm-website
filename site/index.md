@@ -14,11 +14,10 @@ Saturday 26th April
 
 Saturday 10th May, 11am - 4pm
 : _Home tour_, dancing in Windsor with guests [Black Annis](https://blackannismorris.org/). 
-: 11am by the Guildhall (in front of the Prince Harry); 12:05 Peascod Street (outside Caffe Nero) - to be confirmed; 14:15 Bachelors' Acre; 15:00 Indie Rabble brewery taproom (Alma Rd, [SL4 1QZ](https://www.google.com/maps/place/Indie+Rabble+Brewing+Company/@51.483531,-0.611781,14z/data=!4m6!3m5!1s0x48767bc7ff13d37f:0xa9a2f75892a62a60!8m2!3d51.4835306!4d-0.6117808!16s%2Fg%2F11v4j7x20z?hl=en&entry=ttu&g_ep=EgoyMDI1MDQyMS4wIKXMDSoASAFQAw%3D%3D))
+: 11am by the Guildhall (in front of the Prince Harry); 12:05 Peascod Street (outside Caffe Nero); 14:15 Bachelors' Acre; 15:00 Indie Rabble brewery taproom (Alma Rd, [SL4 1QZ](https://www.google.com/maps/place/Indie+Rabble+Brewing+Company/@51.483531,-0.611781,14z/data=!4m6!3m5!1s0x48767bc7ff13d37f:0xa9a2f75892a62a60!8m2!3d51.4835306!4d-0.6117808!16s%2Fg%2F11v4j7x20z?hl=en&entry=ttu&g_ep=EgoyMDI1MDQyMS4wIKXMDSoASAFQAw%3D%3D))
 
 Saturday 17th May
-: [Cock & Rabbit](https://camra.org.uk/pubs/cock-rabbit-the-lee-165398), Great Missenden, to celebrate the fact that we danced out there for the first time exactly 50 years ago this day
-: Stay tuned for more details nearer the time.
+: 12:45 [Cock & Rabbit](https://camra.org.uk/pubs/cock-rabbit-the-lee-165398), Great Missenden, to celebrate the fact that we danced out there for the first time exactly 50 years ago this day
 
 Saturday 7th June - 1pm
 : Dancing at the [Thames Valley Adventure Playground](https://www.tvap.co.uk/).
