@@ -6,3 +6,12 @@ content:
   - name: home
     label: Home Page
     path: site/index.md
+    type: file
+    format: raw
+    fields:
+      - name: title
+        label: Title
+        type: text
+      - name: body
+        label: Page Text
+        type: text
