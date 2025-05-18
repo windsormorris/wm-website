@@ -1,3 +1,8 @@
 media: 
   input: site/img
   output: img
+
+content:
+  - name: home
+    label: Home Page
+    path: site/index.md
