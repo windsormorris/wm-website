@@ -9,9 +9,9 @@ content:
     type: file
     format: raw
     fields:
-      - name: title
-        label: Title
-        type: text
+      - name: image
+        label: Pretty Picture
+        type: image
       - name: body
         label: Page Text
         type: text
