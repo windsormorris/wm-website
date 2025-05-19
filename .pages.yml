@@ -7,6 +7,7 @@ content:
     label: Pages
     path: site
     type: collection
+    format: datagrid
     fields:
       - { name: title, label: Title, type: string }
       - { name: date, label: Date, type: date }
