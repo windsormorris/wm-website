@@ -1,1 +1,1 @@
-<h1>Where can you see us in 2025?</h1><p><img src="https://raw.githubusercontent.com/windsormorris/wm-website/main/site/img/banner1.jpg"></p><h1> </h1>
+<h1>Where can you see us in 2025?</h1><p><img src="https://raw.githubusercontent.com/windsormorris/wm-website/main/site/img/banner1.jpg" alt="WM dancing"></p><h1> </h1>
