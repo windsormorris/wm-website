@@ -14,4 +14,4 @@ content:
         type: image
       - name: body
         label: Page Text
-        type: text
+        type: rich-text
