@@ -5,7 +5,7 @@ media:
 content:
   - name: home
     label: Home Page
-    path: site/index.md
+    path: site/test.md
     type: file
     format: raw
     fields:
