@@ -3,15 +3,12 @@ media:
   output: img
 
 content:
-  - name: home
-    label: Home Page
-    path: site/test.md
-    type: file
-    format: raw
+  - name: pages
+    label: Pages
+    path: site
+    type: collection
     fields:
-      - name: image
-        label: Pretty Picture
-        type: image
-      - name: body
-        label: Page Text
-        type: rich-text
+      - { name: title, label: Title, type: string }
+      - { name: date, label: Date, type: date }
+      - { name: image, label: Banner, type: image }
+      - { name: body, label: Page Text, type: rich-text }
