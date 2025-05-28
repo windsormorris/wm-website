@@ -18,6 +18,12 @@
     <div id="hamburger-menu"><!-- inserted by soupault --></div>
     <div class='content'>
       <content>
+<h1>${title}</h1>
+<h2>July</h2>
+<p>| Date | Location | Guests |
+| --- | --- | --- |
+| foo | bar | baz |
+|     |     |     |</p>
         <!-- your page content will be inserted here,
         see the default_content_selector option in soupault.conf -->
       </content>

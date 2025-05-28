@@ -5,17 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="icon" type="image/png" href="/img/favicon.ico">
   <title>
-   Title needed!
+   ${title}
   </title>
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.7/css/all.css">
   <link rel="stylesheet" href="/styles/menu.css" type="text/css">
   <link rel="stylesheet" href="/styles/wm.css" type="text/css">
-  <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-  <script type="text/javascript">
-   function googleTranslateElementInit() {
-      new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
-    }
-  </script>
  </head>
  <body style="margin-right: 3%;" onload="(function() {
       var links = document.body.getElementsByTagName(" a");="" var="" linkcount="links.length;" for="" (var="" i="0;" <="" linkcount;="" i++)="" {="" if="" (new="" url(links[i].href).origin="" !="=" location.origin)="" links[i].setattribute('target',="" '_blank');="" }="" })();"="">
@@ -79,7 +73,20 @@
 </nav>
 </div>
 <div class="content">
-<content></content>
+<content>
+<h1>
+${title}
+</h1>
+<h2>
+July
+</h2>
+<p>
+| Date | Location | Guests |
+| --- | --- | --- |
+| foo | bar | baz |
+|     |     |     |
+</p>
+</content>
 </div>
 </body>
 </html>

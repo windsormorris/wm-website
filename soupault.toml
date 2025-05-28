@@ -4,9 +4,9 @@
 
 [settings]
   # This configuration only works with soupault 4.0.0 or later
-  soupault_version = "4.0.0"
+  soupault_version = "5.0.0"
 
-  strict = true
+  #strict = true
   verbose = true
   debug = true
 
@@ -34,11 +34,14 @@
 
   # assume HTML5
   doctype = "<!DOCTYPE html>"
+  
+  # uncomment to use built-in pre-processor (ignores front-matter)
+  #markdown_extensions = ["md"]
 
 ## Preprocessors convert non-HTML files to HTML
 ## for further processing by soupault
 [preprocessors]
-  md = "pandoc -f markdown -t html"
+  md = "/home/jjw/Code/bin/pandoc+yaml.sh"
 
 # Removes the "webpage number" from the output path
 # e.g. site/01-about-us.md becomes public/about-us/
@@ -81,7 +84,7 @@
 
   # Make the index data available even to content pages, at cost of 
   # making a reduced first pass to extract that data before the "real" build
-  index_first = true
+  #index_first = true
 
   sort_by = "webpage_number"
   sort_type = "numeric"

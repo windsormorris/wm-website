@@ -19,8 +19,8 @@ Saturday 10th May, 11am - 4pm
 Saturday 17th May
 : 12:45 [Cock & Rabbit](https://camra.org.uk/pubs/cock-rabbit-the-lee-165398), Great Missenden, to celebrate the fact that we danced out there for the first time exactly 50 years ago this day
 
-Saturday 7th June - 1pm
-: Dancing at the [Thames Valley Adventure Playground](https://www.tvap.co.uk/).
+Saturday 7th June - 11:30
+: Dancing at the [Hall & Woodhouse pub, Taplow](https://camra.org.uk/pubs/hall-woodhouse-taplow-taplow-196848) and afterwards at the [Thames Valley Adventure Playground](https://www.tvap.co.uk/).
 
 Sunday 15th June
 : Dancing at the [Kirtlington Lamb Ale](https://kirtlington-morris.org.uk/kirtlington-lamb-ale-2/), as guests of [Kirtlington Morris](https://kirtlington-morris.org.uk/).
