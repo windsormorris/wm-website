@@ -35,13 +35,9 @@
   # assume HTML5
   doctype = "<!DOCTYPE html>"
   
-  # uncomment to use built-in pre-processor (ignores front-matter)
-  #markdown_extensions = ["md"]
-
-## Preprocessors convert non-HTML files to HTML
-## for further processing by soupault
+## Preprocessors convert non-HTML files to HTML for further processing by soupault
 [preprocessors]
-  md = "/home/jjw/Code/bin/pandoc+yaml.sh"
+  md = "/usr/bin/pandoc -f markdown -t html"
 
 # Removes the "webpage number" from the output path
 # e.g. site/01-about-us.md becomes public/about-us/
@@ -63,7 +59,6 @@
 ## Find all the page numbers to build the menu
 [hooks.post-index]
   lua_source = '''
-    Log.debug("Extracting page number")
     page_file_name = Sys.basename(page_file)
     res = Regex.find_all(page_file_name, "^(\\d+)")
 
