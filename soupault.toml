@@ -9,9 +9,8 @@
   #strict = true
   verbose = true
   debug = true
-
+  
   # Force "clean URLs", i.e. book/foo.md becomes build/foo/index.html
-  # (Clean URLs is the default, you can set it to false if you don't like it)
   clean_urls = true
 
   # Where generated files go
@@ -35,9 +34,12 @@
   # assume HTML5
   doctype = "<!DOCTYPE html>"
   
+  markdown_extensions = ["md"]
+  # if settings.markdown_extensions is not in the config or is set to an empty list, then built-in Markdown processing is disabled.
+  
 ## Preprocessors convert non-HTML files to HTML for further processing by soupault
 [preprocessors]
-  md = "/usr/bin/pandoc -f markdown -t html"
+  #md = "/usr/bin/pandoc -f markdown -t html"
 
 # Removes the "webpage number" from the output path
 # e.g. site/01-about-us.md becomes public/about-us/
@@ -73,50 +75,36 @@
     Log.debug(format("Extracted page number: %s", webpage_number))
 '''
 
-## build the index (menu) data to put on every page in second pass
+## build the index (menu) data to put on every page
 [index]
   index = true
-
-  # Make the index data available even to content pages, at cost of 
-  # making a reduced first pass to extract that data before the "real" build
-  #index_first = true
-
   sort_by = "webpage_number"
   sort_type = "numeric"
   sort_descending = false
+  extract_after_widgets = ["page-title"]
 
-[index.fields]
-  title = { selector = "h1" }
+[index.fields.title]
+  selector = "title"
   
-## other index data not used currently...
+[index.views.menu]
+  index_selector = "ul#menu"
+  index_template = '''
+	  <a href="/"><li> Our Programme</li></a> 
+	  {% for e in entries %}
+		<a href="{{e.url}}"><li>{{e.title}}</li></a> 
+	  {% endfor %}
+	  <li>
+		<copyright>&copy; 2019-2025 Windsor Morris.</copyright>
+	  </li>
+'''
 
-[index.fields.date]
-  selector = ["time#post-date", "time"]
-  extract_attribute = "datetime"
-  fallback_to_content = true
-  
-[index.fields.author]
-  selector = ["author"]
-  
-[index.fields.logo]
-  selector = ["logo"]
-  
-## Widgets
+# Widgets are executed after pre-process hooks and index generation unless specified otherwise
 
 # Takes the content of the first <h1> and inserts it into the <title>
 [widgets.page-title]
   widget = "title"
   selector = "h1"
   default = "Title needed!"
-
-[widgets.insert-css]
-  widget = "insert_html"
-  selector = "head"
-  html = """   
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.7/css/all.css">
-    <link rel="stylesheet" href="/styles/menu.css" type="text/css">
-    <link rel="stylesheet" href="/styles/wm.css" type="text/css">
-"""
 
 [widgets.insert-usual-logo]
   widget = "insert_html"
@@ -160,48 +148,3 @@
     }
 </script>"""
 
-[widgets.insert-hamburger-menu]
-  widget = "chapters-index"
-
-  index_selector = "div#hamburger-menu"
-
-  index_template = '''
-    <nav role="navigation">
-      <div id="menuToggle">
-        <!-- A fake / hidden checkbox is used as click reciever,
-          so you can use the :checked selector on it in menu.css -->
-        <input type="checkbox" />
-        
-        <!-- Some spans to act as a hamburger. -->
-        <span></span>
-        <span></span>
-        <span></span>
-        
-        <!-- Too bad the menu has to be inside of the button, but hey, it's pure CSS magic. -->
-        <ul id="menu" class="toc">
-          <a href="/"><li> Our Programme</li></a> 
-          {% for e in entries %}
-            <a href="{{e.url}}"><li>{{e.title}}</li></a> 
-          {% endfor %}
-          <li>
-            <copyright>&copy; 2019-2025 Windsor Morris.</copyright>
-          </li>
-        </ul>
-    </div>
-  </nav>
-'''
-##  breadcrumbs, not currently used...
-
-[widgets.insert-horizontal-navigation]
-  widget = "chapters-index"
-
-  index_selector = "div#horizontal-navigation"
-
-  index_template = '''
-    <div class="toc">
-      <span> <a href="/">Our Programme</a> </span>
-      {% for e in entries %}
-      <span> <a href="{{e.url}}">{{e.title}}</a> </span>
-      {% endfor %}
-    </div>
-'''
