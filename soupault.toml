@@ -34,12 +34,13 @@
   # assume HTML5
   doctype = "<!DOCTYPE html>"
   
-  markdown_extensions = ["md"]
+  # built-in processor does NOT recognise <dl> definition lists
+  # markdown_extensions = ["md"]
   # if settings.markdown_extensions is not in the config or is set to an empty list, then built-in Markdown processing is disabled.
   
 ## Preprocessors convert non-HTML files to HTML for further processing by soupault
 [preprocessors]
-  #md = "/usr/bin/pandoc -f markdown -t html"
+  md = "/usr/bin/pandoc -f markdown -t html"
 
 # Removes the "webpage number" from the output path
 # e.g. site/01-about-us.md becomes public/about-us/
@@ -111,18 +112,8 @@
   selector = "logo"
   html = """   
     <a href='/'><img class='logo' src='/img/windsorCastle_100.gif'></a>
-"""
-
-[widgets.insert-beach-logo]
-  path_regex = "course"
-  widget = "insert_html"
-  selector = "logo"
-  action = "replace_content"
-  after = "insert-usual-logo"
-  html = """   
-    <a href='/'><img class='logo' src='/img/programme_logo.jpg'></a>
-"""
-
+"""  
+  
 [widgets.insert-kemp-logo]
   path_regex = "about-morris"
   widget = "insert_html"
@@ -143,8 +134,30 @@
   html = """   
     <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
     <script type="text/javascript">
-    function googleTranslateElementInit() {
-      new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
-    }
-</script>"""
+		function googleTranslateElementInit() {
+		  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+		}
+	</script>
+"""
 
+[widgets.insert-beach-logo]
+  path_regex = "course"
+  widget = "insert_html"
+  selector = "logo"
+  action = "replace_content"
+  after = "insert-usual-logo"
+  html = """   
+    <a href='/'><img class='logo' src='/img/programme_logo.jpg'></a>
+"""
+
+[widgets.insert-laughing-bells]
+  path_regex = "course"
+  widget = "insert_html"
+  action = "insert_after"
+  selector = "p:nth-of-type(1)"
+  html = '''
+	<div class='float-left' >
+		<span style="writing-mode: sideways-lr;"><small>&copy; 2011 Lucy Goddard.</small></span>
+		<img style='max-height: 100px;' src='/img/laughing_bells.jpg'  title="Even the bells love it!" alt="Morris bells turned into smiley faces" />
+	</div>
+'''

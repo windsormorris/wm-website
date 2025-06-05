@@ -10,9 +10,12 @@ Where can you see us in 2025?
 -----------------------------
 
 **Saturday 26th April** 
-  from 12noon, dancing at the [Olde Reine Deer](https://whatpub.com/pubs/OXN/11/olde-reine-deer-inn-banbury), and then at the [Coach & Horses](https://whatpub.com/pubs/OXN/61/coach-horses-banbury) in Banbury, with the world famous [Hammersmith Morris](https://www.hammersmithmorris.org.uk/); and from 4pm at the [Bell Inn](https://whatpub.com/pubs/OXN/133/bell-inn-adderbury) in Adderbury as guests of [Adderbury Morris Men](https://www.adderburymorris.org.uk/) to celebrate their 50th Anniversary.
+: from 12noon, dancing at the [Olde Reine Deer](https://whatpub.com/pubs/OXN/11/olde-reine-deer-inn-banbury), and then at the [Coach & Horses](https://whatpub.com/pubs/OXN/61/coach-horses-banbury) in Banbury, with [Hammersmith Morris](https://www.hammersmithmorris.org.uk/);
+: and from 4pm at the [Bell Inn](https://whatpub.com/pubs/OXN/133/bell-inn-adderbury) in Adderbury as guests of [Adderbury Morris Men](https://www.adderburymorris.org.uk/) to celebrate their 50th Anniversary.
 
-**Saturday 10th May, 11am - 4pm** _Home tour_, dancing in Windsor with guests [Black Annis](https://blackannismorris.org/). 11am by the Guildhall (in front of the Prince Harry); 12:05 Peascod Street (outside Caffe Nero); 14:15 Bachelors' Acre; 15:00 Indie Rabble brewery taproom (Alma Rd, [SL4 1QZ](https://www.google.com/maps/place/Indie+Rabble+Brewing+Company/@51.483531,-0.611781,14z/data=!4m6!3m5!1s0x48767bc7ff13d37f:0xa9a2f75892a62a60!8m2!3d51.4835306!4d-0.6117808!16s%2Fg%2F11v4j7x20z?hl=en&entry=ttu&g_ep=EgoyMDI1MDQyMS4wIKXMDSoASAFQAw%3D%3D))
+**Saturday 10th May, 11am - 4pm** _Home tour_
+: dancing in Windsor with guests [Black Annis](https://blackannismorris.org/). 
+: 11am by the Guildhall (in front of the Prince Harry); 12:05 Peascod Street (outside Caffe Nero); 14:15 Bachelors' Acre; 15:00 Indie Rabble brewery taproom (Alma Rd, [SL4 1QZ](https://www.google.com/maps/place/Indie+Rabble+Brewing+Company/@51.483531,-0.611781,14z/data=!4m6!3m5!1s0x48767bc7ff13d37f:0xa9a2f75892a62a60!8m2!3d51.4835306!4d-0.6117808!16s%2Fg%2F11v4j7x20z?hl=en&entry=ttu&g_ep=EgoyMDI1MDQyMS4wIKXMDSoASAFQAw%3D%3D))
 
 **Saturday 17th May**
 : 12:45 [Cock & Rabbit](https://camra.org.uk/pubs/cock-rabbit-the-lee-165398), Great Missenden, to celebrate the fact that we danced out there for the first time exactly 50 years ago this day
