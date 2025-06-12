@@ -3,10 +3,8 @@
 ## Global settings
 
 [settings]
-  # This configuration only works with soupault 4.0.0 or later
   soupault_version = "5.0.0"
 
-  #strict = true
   verbose = true
   debug = true
   
@@ -34,7 +32,7 @@
   # assume HTML5
   doctype = "<!DOCTYPE html>"
   
-  # built-in processor does NOT recognise <dl> definition lists
+  # NB: built-in processor does NOT recognise <dl> definition lists
   # markdown_extensions = ["md"]
   # if settings.markdown_extensions is not in the config or is set to an empty list, then built-in Markdown processing is disabled.
   

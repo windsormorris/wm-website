@@ -6,6 +6,9 @@ Windsor Morris
 
 We are a friendly, energetic and enthusiastic group who enjoy dancing together and taking our dances to a variety of audiences. 
 
+Keep up to date with what's happening with Windsor Morris 
+<a href='https://www.facebook.com/windsormorrisdancers'>on Facebook<i class="stack fab fa-facebook-square"></i></a> and [Instagram](https://www.instagram.com/wmwindsormorris)<i class="stack fab fa-instagram"></i>.
+
 Where can you see us in 2025?
 -----------------------------
 
@@ -24,20 +27,24 @@ Where can you see us in 2025?
 : 11:30 Dancing at the [Hall & Woodhouse pub, Taplow](https://camra.org.uk/pubs/hall-woodhouse-taplow-taplow-196848); 1pm at the [Thames Valley Adventure Playground](https://www.tvap.co.uk/).
 
 **Sunday 15th June**
-: Dancing at the [Kirtlington Lamb Ale](https://kirtlington-morris.org.uk/kirtlington-lamb-ale-2/), as guests of [Kirtlington Morris](https://kirtlington-morris.org.uk/).
+: Dancing at the [Kirtlington Lamb Ale](https://kirtlington-morris.org.uk/wp-content/uploads/2025/06/KMM_LA_2025_New_v1.pdf) [PDF], as guests of [Kirtlington Morris](https://kirtlington-morris.org.uk/).
+: am: village processions; 12:15 Oxford Arms; 12:55 Village Hall; 13:35 Village School; 14:15 Dashwood Arms.
 
 **Saturday 12th and Sunday 13th July, 11am - 4pm**
 : _Home tour_, dancing in Windsor (Saturday) and Newbury (Sunday) to celebrate our 50th Anniversary with our guests  
-: [Great Western Morris](https://www.great-western.org.uk/) from Exeter; [Sheffield City Morris](https://sheffieldcitymorris.org.uk/); [Chinewrde Morris](http://www.chinewrde.co.uk/) of Kenilworth; and [Seven Champions](https://www.facebook.com/groups/sevenchampionsfans/).
+: [Great Western Morris](https://www.great-western.org.uk/); [Sheffield City Morris](https://sheffieldcitymorris.org.uk/); [Chinewrde Morris](http://www.chinewrde.co.uk/); and [Seven Champions](https://www.facebook.com/groups/sevenchampionsfans/).
 : Stay tuned for more details nearer the time.
 
 **Saturday 2nd - Friday 8th August**
 : Dancing at the [Sidmouth Folk Festival](https://sidmouthfolkfestival.co.uk/). 
-: For full details see [their programme](https://sidmouthfolkfestival.co.uk/display-dance/) when it is published later this year.
+: For full details see [the Festival programme](https://sidmouthfolkfestival.co.uk/display-dance/) when it is published later this year.
 
 **Saturday 23rd - Monday 25th August**
 : Dancing at the [Shrewsbury Folk Festival](https://shrewsburyfolkfestival.co.uk/). 
-: For full details see [their programme](https://shrewsburyfolkfestival.co.uk/line-up/morrisanddancesides/) when it is published later this year.
+: Saturday 10:30 Purity Village Stage; 12:00 Salopian Berwick Bar; 13:30 Town Square; 16:00 Festival Dance Spot.
+: Sunday 09:45 Purity Village Stage; 12:00 Salopian Berwick Bar; 15:00 Salopian Berwick Bar; 16:30 & 20:45 Hobsons Dance Tent.
+: Monday 10:30 Purity Village Stage.
+: For full details see [the Festival programme](https://shrewsburyfolkfestival.co.uk/line-up/morrisanddancesides/).
 
 **Sunday 31st August**
 : Dancing at [Wallingford Bunkfest](http://www.bunkfest.co.uk/).
@@ -53,5 +60,3 @@ Where can you see us in 2025?
 
 <small>Errors and ommissions excepted!  All times and events subject to weather conditions and, perhaps, to change at short notice. If you are planning to make a trip to see us (thank you!), please consider [contacting us](contact-us/) for the latest arrangements.</small>
 
-Keep up to date with what's happening with Windsor Morris 
-<a href='https://www.facebook.com/windsormorrisdancers'>on Facebook<i class="stack fab fa-facebook-square"></i></a> and [Instagram](https://www.instagram.com/wmwindsormorris)<i class="stack fab fa-instagram"></i>.

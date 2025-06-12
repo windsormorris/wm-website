@@ -3,15 +3,12 @@
 :root {
     /* Sizes */
     --font-size: 12pt;
-
-    /* Colors */
-    --link-color: #09f;
 }
 
 body {
   font-family: system-ui, sans-serif;
   font-size: var(--font-size);
-  margin: 2%;
+  margin: 1%;
 }
 
 small {
@@ -36,18 +33,23 @@ logo span {
 
 div.toc span { margin-right: 5px; }
 
+div.content {  margin: inherit; }
 content {
   float: none;
   position: absolute;
   top: 105px;
   display: block;
+  margin: inherit;
 }
 
 programme { list-style-position: inside; }
 li.collapsible { list-style: none; }
 
-a:visited {
+a {
   color: green;
+}
+a:visited {
+  color: DarkOliveGreen;
 }
 
 .fab /* fa icon */ { margin-left: 5px;}
@@ -80,6 +82,13 @@ dt {
   float: left;
   margin-right: 10px;
   margin-left: 10px;
+}
+
+span.photo-credit {
+  display: block; 
+  text-align: right; 
+  font-size: xx-small; 
+  margin-bottom: 12px;
 }
 
 @media only screen and (orientation: landscape) {
@@ -122,8 +131,6 @@ hr
   border: 0 none;
   margin: 0;
 }
-
-a { color: var(--link-color); }
 
 /* For some reason on most system the default monospace font looks smaller. */
 pre, code, kbd { font-size: 110%; }

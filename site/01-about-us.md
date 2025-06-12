@@ -3,9 +3,10 @@
 About Us
 ========
 
-<div class="img-right">
-  <img src="/img/banner3-cropped.jpg" alt="Windsor Morris dancing, with Windsor Castle in the background" title="that's Windsor Castle in the background" /><br/><span style="font-size: xx-small;">Photo credit: Ben Potton</span>
-</div>
+<div style="float:right; "  >
+  <img src="/img/banner3-cropped.jpg" alt="Windsor Morris dancing, with Windsor Castle in the background" title="that's Windsor Castle in the background" /><br/>
+  <span class="photo-credit">Photo credit: [Ben Potton](https://www.facebook.com/benpottonphotography/)</span>
+ </div>
 
 As our name suggests, we are based in _Windsor_, in Berkshire, one of the 'Home Counties' to the west of London, England. The town is dominated by the magnificent castle, one of the King's main residences, which is portrayed in our logo.
 
