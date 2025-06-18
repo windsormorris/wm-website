@@ -30,10 +30,17 @@ Where can you see us in 2025?
 : Dancing at the [Kirtlington Lamb Ale](https://kirtlington-morris.org.uk/wp-content/uploads/2025/06/KMM_LA_2025_New_v1.pdf) [PDF], as guests of [Kirtlington Morris](https://kirtlington-morris.org.uk/).
 : am: village processions; 12:15 Oxford Arms; 12:55 Village Hall; 13:35 Village School; 14:15 Dashwood Arms.
 
-**Saturday 12th and Sunday 13th July, 11am - 4pm**
-: _Home tour_, dancing in Windsor (Saturday) and Newbury (Sunday) to celebrate our 50th Anniversary with our guests  
+**Saturday 12th July**
+: _Home tour_, dancing in Windsor to celebrate our 50th Anniversary with our guests  
 : [Great Western Morris](https://www.great-western.org.uk/); [Sheffield City Morris](https://sheffieldcitymorris.org.uk/); [Chinewrde Morris](http://www.chinewrde.co.uk/); and [Seven Champions](https://www.facebook.com/groups/sevenchampionsfans/).
-: Stay tuned for more details nearer the time.
+: 10:45 Windsor & Eton Brewery; 12:00 Alexandra Gardens and also Bachelor's Acre; 14:20 Procession on the Long Walk by the Castle;
+: 15:00 Two Brewers (Park Street) and also Windsor Royal (by All Bar One); 16:00 Indie Rabble/Two Flints breweries.
+: Explore this map to see who is dancing where and when:
+
+<iframe src="https://www.google.com/maps/d/embed?mid=11O8GC73uXxzAO3CzL8CHtrp-D6nKpug&ehbc=2E312F" width="100%" height="480" style="text-align: left"></iframe>
+
+**Sunday 13th July**
+: continuing our _Anniversary tour_, dancing in Newbury from between 11am - 1pm.
 
 **Saturday 2nd - Friday 8th August**
 : Dancing at the [Sidmouth Folk Festival](https://sidmouthfolkfestival.co.uk/). 
