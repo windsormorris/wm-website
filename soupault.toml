@@ -125,7 +125,7 @@
     </div></a>
 """
 
-[widgets.insert-google-translate]
+[widgets.insert-google-translate-script]
   path_regex = "about"
   widget = "insert_html"
   selector = "head"
@@ -138,10 +138,19 @@
 	</script>
 """
 
+[widgets.insert-google-translate-div]
+  path_regex = "about"
+  selector = "content"
+  widget = "insert_html"
+  action = "prepend_child"
+  html = """   
+		<div id="google_translate_element"></div>
+"""
+
 [widgets.insert-beach-logo]
   path_regex = "course"
-  widget = "insert_html"
   selector = "logo"
+  widget = "insert_html"
   action = "replace_content"
   after = "insert-usual-logo"
   html = """   
