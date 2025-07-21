@@ -11,7 +11,7 @@ The morris dances you see these days owe their origins to the late nineteenth ce
 
 Morris groups are all amateurs now. Like any street entertainment, we hope you will enjoy our performance and tokens of appreciation from you in the form of coins (or notes!) of the realm are welcome. 
 
-**Many people will put a £1 (or more) in the collection to show their appreciation, so look out for our collectors and, yes, we take contactless!**
+**Many people like to put some money the collection to show their appreciation, so look out for our collectors and, yes, we take contactless!**
 
 
 Windsor Morris are members of the [Morris Federation](http://www.morrisfed.org.uk).

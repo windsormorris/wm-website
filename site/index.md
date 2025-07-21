@@ -9,7 +9,7 @@ We are a friendly, energetic and enthusiastic group who enjoy dancing together a
 Keep up to date with what's happening with Windsor Morris 
 <a href='https://www.facebook.com/windsormorrisdancers'>on Facebook<i class="stack fab fa-facebook-square"></i></a> and [Instagram](https://www.instagram.com/wmwindsormorris)<i class="stack fab fa-instagram"></i>.
 
-**Many people will make a small donation to show their appreciation, so look out for our collectors and, yes, we take contactless!**
+**Many people like make a small donation to show their appreciation, so look out for our collectors and, yes, we take contactless!**
 
 Where can you see us soon?
 --------------------------

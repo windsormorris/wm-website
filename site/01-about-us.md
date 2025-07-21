@@ -12,7 +12,7 @@ About Us
 
 We are a friendly, energetic and enthusiastic group who enjoy dancing together and taking our dances to a variety of audiences. In summer we perform at venues in and around Windsor and further afield at festivals, and as guests of other Morris sides. Check out our [programme](/) for more details.
 
-**Many people will put a £1 (or more) in the collection to show their appreciation, so look out for our collectors and, yes, we take contactless!**
+**Many people like put some money in the collection to show their appreciation, so look out for our collectors and, yes, we take contactless!**
 
 As our name suggests, we are based in _Windsor_, in Berkshire, one of the 'Home Counties' to the west of London, England. The town is dominated by the magnificent castle, one of the King's main residences, which is portrayed in our logo.
 
