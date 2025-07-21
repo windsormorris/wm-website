@@ -93,7 +93,7 @@
 		<a href="{{e.url}}"><li>{{e.title}}</li></a> 
 	  {% endfor %}
 	  <li>
-		<copyright>&copy; 2019-2025 Windsor Morris.</copyright>
+		<copyright>This site &copy; 2019-2025 Windsor Morris.</copyright>
 	  </li>
 '''
 
@@ -148,14 +148,3 @@
     <a href='/'><img class='logo' src='/img/programme_logo.jpg'></a>
 """
 
-[widgets.insert-laughing-bells]
-  path_regex = "course"
-  widget = "insert_html"
-  action = "insert_after"
-  selector = "p:nth-of-type(1)"
-  html = '''
-	<div class='float-left' >
-		<span style="writing-mode: sideways-lr;"><small>&copy; 2011 Lucy Goddard.</small></span>
-		<img style='max-height: 100px;' src='/img/laughing_bells.jpg'  title="Even the bells love it!" alt="Morris bells turned into smiley faces" />
-	</div>
-'''

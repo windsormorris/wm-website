@@ -1,0 +1,71 @@
+
+/*
+ * image handling
+ */
+
+.photo-container-right {
+  max-width: 30%;
+  float: right;
+  margin-left: 6px;
+  text-align: center;
+}
+
+.photo-container-right img {
+  height: auto;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+.photo-container-left {
+  float: left;
+  margin-right: 6px;
+}
+
+.photo-container-left img {
+  height: auto;
+  max-width: 100%;
+  object-fit: contain;
+  display: inline-block;
+}
+
+.photo-container-left credit {
+  writing-mode: sideways-lr;
+  display: inline;
+}
+
+credit {
+  font-size: 0.6rem;
+  color: #666;
+  margin-top: 0.5em;
+}
+
+/* could be anything but most commonly images */
+
+.image-left {
+  float: left;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+/* some images are done differently when portrait */
+
+@media only screen and not (orientation: landscape) {
+  .landscape-image {
+    clear: both;
+    object-fit: scale-down;
+    max-width:98%;
+    height: auto;
+    max-height: 25%
+  }
+}
+
+/* or landscape... */
+
+@media only screen and (orientation: landscape) {
+  .landscape-image {
+    float: right;
+    width: 50%;
+    height: auto;
+    margin-left: 6px;
+  }
+}

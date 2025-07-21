@@ -2,15 +2,43 @@
 Windsor Morris
 ==============
 
-<img class="img-right" src="/img/IMG_7201.jpg" alt="Dancers dancing" />
+<img class="landscape-image" src="/img/IMG_7201.jpg" alt="Dancers dancing" />
 
 We are a friendly, energetic and enthusiastic group who enjoy dancing together and taking our dances to a variety of audiences. 
 
 Keep up to date with what's happening with Windsor Morris 
 <a href='https://www.facebook.com/windsormorrisdancers'>on Facebook<i class="stack fab fa-facebook-square"></i></a> and [Instagram](https://www.instagram.com/wmwindsormorris)<i class="stack fab fa-instagram"></i>.
 
-Where can you see us in 2025?
------------------------------
+**Many people will make a small donation to show their appreciation, so look out for our collectors and, yes, we take contactless!**
+
+Where can you see us soon?
+--------------------------
+
+**Saturday 2nd - Friday 8th August**
+: Dancing at the [Sidmouth Folk Festival](https://sidmouthfolkfestival.co.uk/). 
+: For full details see [the Festival programme](https://sidmouthfolkfestival.co.uk/display-dance/) when it is published later this year.
+
+**Saturday 23rd - Monday 25th August**
+: Dancing at the [Shrewsbury Folk Festival](https://shrewsburyfolkfestival.co.uk/). 
+: Saturday 10:30 Purity Village Stage; 12:00 Salopian Berwick Bar; 13:30 Town Square; 16:00 Festival Dance Spot.
+: Sunday 09:45 Purity Village Stage; 12:00 Salopian Berwick Bar; 15:00 Salopian Berwick Bar; 16:30 & 20:45 Hobsons Dance Tent.
+: Monday 10:30 Purity Village Stage.
+: For full details see [the Festival programme](https://shrewsburyfolkfestival.co.uk/line-up/morrisanddancesides/).
+
+**Sunday 31st August**
+: Dancing at [Wallingford Bunkfest](http://www.bunkfest.co.uk/).
+
+**Saturday 6th September**
+: _Home tour_, dancing in Windsor with guests [Ditchling Morris](https://www.ditchlingmorris.org/); [Downes on Tour](https://www.google.com/search?q=%23downesontourmorris); [Tower Ravens Rapper](https://www.towerravens.org.uk/); and [Yateley Morris Men](https://yateleymorrismen.org.uk/).
+: Stay tuned for more details nearer the time.
+
+**Saturday 27th - Sunday 28th September**
+: Team weekend away in and around Sheffield, dancing at [The Morris Federation's Day of Dance and AGM](https://www.morrisfed.org.uk/event/morris-federation-day-of-dance-and-agm-2025/)
+
+---
+
+Where have we already been?
+---------------------------
 
 **Saturday 26th April** 
 : from 12noon, dancing at the [Olde Reine Deer](https://whatpub.com/pubs/OXN/11/olde-reine-deer-inn-banbury), and then at the [Coach & Horses](https://whatpub.com/pubs/OXN/61/coach-horses-banbury) in Banbury, with [Hammersmith Morris](https://www.hammersmithmorris.org.uk/);
@@ -35,35 +63,9 @@ Where can you see us in 2025?
 : [Great Western Morris](https://www.great-western.org.uk/); [Sheffield City Morris](https://sheffieldcitymorris.org.uk/); [Chinewrde Morris](http://www.chinewrde.co.uk/); and [Seven Champions](https://www.facebook.com/groups/sevenchampionsfans/).
 : 10:45 Windsor & Eton Brewery; 12:00 Alexandra Gardens and also Bachelor's Acre; 14:20 Procession on the Long Walk by the Castle;
 : 15:00 Two Brewers (Park Street) and also Windsor Royal (by All Bar One); 16:00 Indie Rabble/Two Flints breweries.
-: Explore this map to see who is dancing where and when:
-
-<iframe src="https://www.google.com/maps/d/embed?mid=11O8GC73uXxzAO3CzL8CHtrp-D6nKpug&ehbc=2E312F" width="100%" height="480" style="text-align: left"></iframe>
 
 **Sunday 13th July**
 : continuing our _Anniversary tour_, dancing in Newbury from between 11am - 1pm.
-
-**Saturday 2nd - Friday 8th August**
-: Dancing at the [Sidmouth Folk Festival](https://sidmouthfolkfestival.co.uk/). 
-: For full details see [the Festival programme](https://sidmouthfolkfestival.co.uk/display-dance/) when it is published later this year.
-
-**Saturday 23rd - Monday 25th August**
-: Dancing at the [Shrewsbury Folk Festival](https://shrewsburyfolkfestival.co.uk/). 
-: Saturday 10:30 Purity Village Stage; 12:00 Salopian Berwick Bar; 13:30 Town Square; 16:00 Festival Dance Spot.
-: Sunday 09:45 Purity Village Stage; 12:00 Salopian Berwick Bar; 15:00 Salopian Berwick Bar; 16:30 & 20:45 Hobsons Dance Tent.
-: Monday 10:30 Purity Village Stage.
-: For full details see [the Festival programme](https://shrewsburyfolkfestival.co.uk/line-up/morrisanddancesides/).
-
-**Sunday 31st August**
-: Dancing at [Wallingford Bunkfest](http://www.bunkfest.co.uk/).
-
-**Saturday 6th September**
-: _Home tour_, dancing in Windsor with guests [Ditchling Morris](https://www.ditchlingmorris.org/); [Downes on Tour](https://www.google.com/search?q=%23downesontourmorris); [Tower Ravens Rapper](https://www.towerravens.org.uk/); and [Yateley Morris Men](https://yateleymorrismen.org.uk/).
-: Stay tuned for more details nearer the time.
-
-**Saturday 27th - Sunday 28th September**
-: Team weekend away in and around Sheffield, dancing at [The Morris Federation's Day of Dance and AGM](https://www.morrisfed.org.uk/event/morris-federation-day-of-dance-and-agm-2025/)
-
-----
 
 <small>Errors and ommissions excepted!  All times and events subject to weather conditions and, perhaps, to change at short notice. If you are planning to make a trip to see us (thank you!), please consider [contacting us](contact-us/) for the latest arrangements.</small>
 
