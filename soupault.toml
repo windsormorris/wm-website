@@ -99,6 +99,25 @@
 
 # Widgets are executed after pre-process hooks and index generation unless specified otherwise
 
+[widgets.wrap-images]
+  selector = "image-left"
+  widget = "element_template"
+  template = '''
+	<div class="image-left">
+		<img src={{src}} alt={{alt}} style="height: {{height}}" />
+	</div>
+  '''
+  
+[widgets.delete-figcaption]
+  widget = "delete_element"
+  selector = "figcaption"
+  
+[widgets.footnotes]
+  widget = "footnotes"
+  selector = "footnotes-go-here"
+  footnote_selector = "footnote"
+  footnote_template = "<p class='footnote'> </p>"
+
 # Takes the content of the first <h1> and inserts it into the <title>
 [widgets.page-title]
   widget = "title"
@@ -112,6 +131,16 @@
     <a href='/'><img class='logo' src='/img/windsorCastle_100.gif'></a>
 """  
   
+[widgets.insert-beach-logo]
+  path_regex = "course"
+  selector = "logo"
+  widget = "insert_html"
+  action = "replace_content"
+  after = "insert-usual-logo"
+  html = """   
+    <a href='/'><img class='logo' src='/img/programme_logo.jpg'></a>
+"""
+
 [widgets.insert-kemp-logo]
   path_regex = "about-morris"
   widget = "insert_html"
@@ -145,15 +174,5 @@
   action = "prepend_child"
   html = """   
 		<div id="google_translate_element"></div>
-"""
-
-[widgets.insert-beach-logo]
-  path_regex = "course"
-  selector = "logo"
-  widget = "insert_html"
-  action = "replace_content"
-  after = "insert-usual-logo"
-  html = """   
-    <a href='/'><img class='logo' src='/img/programme_logo.jpg'></a>
 """
 

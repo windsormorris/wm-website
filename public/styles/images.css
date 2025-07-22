@@ -2,52 +2,67 @@
 /*
  * image handling
  */
+ 
+figcaption {
+   display: none; /* pandoc wraps img alt text in firgure/figcaption */
+}
+
+/* 
+ * images with credits that must accompany them  - height must be set on the image
+ */
 
 .photo-container-right {
   max-width: 30%;
   float: right;
   margin-left: 6px;
-  text-align: center;
+  text-align: right;
 }
 
 .photo-container-right img {
   height: auto;
   max-width: 100%;
-  object-fit: contain;
 }
 
 .photo-container-left {
+  max-width: 35%;
   float: left;
   margin-right: 6px;
+  text-align: left;
 }
 
 .photo-container-left img {
   height: auto;
-  max-width: 100%;
-  object-fit: contain;
-  display: inline-block;
+  max-width: 100%; 
 }
 
-.photo-container-left credit {
-  writing-mode: sideways-lr;
-  display: inline;
+credit::before {
+  content: "credit: ©";
 }
 
 credit {
   font-size: 0.6rem;
   color: #666;
-  margin-top: 0.5em;
 }
 
-/* could be anything but most commonly images */
+/* 
+ * images with no credit or title to worry about - height must be set on the image
+ */
 
 .image-left {
+  max-width: 35%;
   float: left;
-  margin-right: 10px;
-  margin-left: 10px;
+  margin-right: 6px;
 }
 
-/* some images are done differently when portrait */
+.image-left img {
+  height: 100%;
+  width: 100%;
+  object-fit: scale-down;
+}
+
+/* 
+ * some images are done differently when portrait 
+ */
 
 @media only screen and not (orientation: landscape) {
   .landscape-image {

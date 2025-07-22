@@ -6,10 +6,9 @@ Windsor Morris
 
 We are a friendly, energetic and enthusiastic group who enjoy dancing together and taking our dances to a variety of audiences. 
 
-Keep up to date with what's happening with Windsor Morris 
-<a href='https://www.facebook.com/windsormorrisdancers'>on Facebook<i class="stack fab fa-facebook-square"></i></a> and [Instagram](https://www.instagram.com/wmwindsormorris)<i class="stack fab fa-instagram"></i>.
-
-**Many people like make a small donation to show their appreciation, so look out for our collectors and, yes, we take contactless!**
+Keep up to date with Windsor Morris on
+<a href='https://www.facebook.com/windsormorrisdancers'>Facebook<i class="fab fa-facebook-square"></i></a> 
+and [Instagram](https://www.instagram.com/wmwindsormorris)<i class="fab fa-instagram"></i>.
 
 Where can you see us soon?
 --------------------------

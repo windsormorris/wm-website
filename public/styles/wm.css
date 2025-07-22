@@ -8,6 +8,7 @@ body {
   font-family: system-ui, sans-serif;
   font-size: 12pt;
   margin: 1%;
+  line-height: 1.5;
 }
 
 logo img, logo div {
@@ -40,6 +41,10 @@ copyright {
   color: green;
 }
 
+p.footnote {
+  font-size: 0.8em;
+}
+
 /* 
  *  Common styles 
  */
@@ -48,6 +53,7 @@ h1 {
   font-size: 16pt; 
   font-weight: bold;
   color: green;
+  clear: both;
 }
 
 h2 {
@@ -55,6 +61,15 @@ h2 {
   font-size: 14pt; 
   font-weight: bold;
   color: green;
+  clear: both;
+}
+
+h3 {
+  margin-top: 10pt;
+  font-size: 12pt; 
+  font-weight: bold;
+  color: green;
+  clear: both;
 }
 
 hr
@@ -63,6 +78,7 @@ hr
   background-color: green;
   border: 0 none;
   margin: 0;
+  clear: both;
 }
 
 dt {
