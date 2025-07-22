@@ -19,10 +19,10 @@
 
   # Where in the template the page content is inserted
   default_content_selector = "content"
-
   default_template_file = "templates/main.html"
+  default_content_action = "append_child"
 
-  # Page considered the section index
+  # Page considered the section index (will become index.html)
   index_page = "index"
 
   # Files that are considered pages and processed
@@ -55,7 +55,7 @@
     target_file = Sys.join_path(target_dir, target_file_name)
 
     Log.debug(format("Target file name set to \"%s\"", target_file))
-'''
+  '''
 
 ## Find all the page numbers to build the menu
 [hooks.post-index]
@@ -72,7 +72,7 @@
     index_fields["webpage_number"] = format("%s", webpage_number)
 
     Log.debug(format("Extracted page number: %s", webpage_number))
-'''
+  '''
 
 ## build the index (menu) data to put on every page
 [index]
@@ -95,41 +95,84 @@
 	  <li>
 		<copyright>This site &copy; 2019-2025 Windsor Morris.</copyright>
 	  </li>
-'''
+  '''
 
 # Widgets are executed after pre-process hooks and index generation unless specified otherwise
-
-[widgets.wrap-images]
-  selector = "image-left"
-  widget = "element_template"
-  template = '''
-	<div class="image-left">
-		<img src={{src}} alt={{alt}} style="height: {{height}}" />
-	</div>
-  '''
-  
-[widgets.delete-figcaption]
-  widget = "delete_element"
-  selector = "figcaption"
-  
-[widgets.footnotes]
-  widget = "footnotes"
-  selector = "footnotes-go-here"
-  footnote_selector = "footnote"
-  footnote_template = "<p class='footnote'> </p>"
 
 # Takes the content of the first <h1> and inserts it into the <title>
 [widgets.page-title]
   widget = "title"
   selector = "h1"
   default = "Title needed!"
+  
+# Markdown image text is very limited, so I don't use it.
+  
+[widgets.landscape-images]
+  selector = "landscape-photo"
+  widget = "element_template"
+  template = '''
+		<img class="landscape" src="{{src}}" alt="{{alt}}" title="{{alt}}" />
+  '''
+  
+[widgets.images]
+  widget = "element_template"
+  selector = "photo"
+  template = '''
+	<div class="photo-container-{{float}}">
+		{%- if not height -%}
+			{%- set height = "100%" -%}
+		{%- endif -%}
+		<img src="{{src}}" alt="{{alt}}" title="{{alt}}" style="height: {{height}}" />
+		
+		{%- if credit -%}
+			{%- if credit == "Ben Potton" -%}
+				{%- set credit = "<a href='/facebook.com/benpottonphotography'>Ben Potton</a>" -%}
+			{%- endif -%}
+			<credit>{{credit}}</credit>
+		{%- endif -%}
+	</div>
+  '''
+  
+# pandoc wraps images with alt text in a <figure> and adds a <figcaption>
+[widgets.delete-figcaption]
+  widget = "delete_element"
+  selector = "figcaption"
+  
+# subsequent widgets use this to put footnotes at the end of the text
+[widgets.add-footnote-goes-here]
+  widget = "insert_html"
+  action = "append_child"
+  selector = "content"
+  html = "<hr><footnotes-go-here />"
 
+# I could use pandoc syntax [^1]: etc, but this allows for styling
+[widgets.make-footnotes]
+  widget = "footnotes"
+  selector = "footnotes-go-here"
+  footnote_selector = "footnote"
+  footnote_template = "<p class='footnote'> </p>"
+  after = "add-footnote-goes-here"
+
+[widgets.cleanup-footnotes]
+  widget = "delete_element"
+  selector = "footnotes-go-here"
+  only_if_empty = true
+  after = "make-footnotes"
+  
+[widgets.insert-social-media]
+  widget = "insert_html"
+  selector = "social-media"
+  action = "replace_element"
+  html = """
+   <a href='https://www.facebook.com/windsormorrisdancers'>Facebook<i class="fab fa-facebook-square"></i></a> or <a href='https://www.instagram.com/wmwindsormorris'>Instagram<i class="fab fa-instagram"></i></a>
+  """
+  
 [widgets.insert-usual-logo]
   widget = "insert_html"
   selector = "logo"
   html = """   
     <a href='/'><img class='logo' src='/img/windsorCastle_100.gif'></a>
-"""  
+  """  
   
 [widgets.insert-beach-logo]
   path_regex = "course"
@@ -139,7 +182,7 @@
   after = "insert-usual-logo"
   html = """   
     <a href='/'><img class='logo' src='/img/programme_logo.jpg'></a>
-"""
+  """
 
 [widgets.insert-kemp-logo]
   path_regex = "about-morris"
@@ -152,7 +195,7 @@
       <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Will_Kemp_Elizabethan_Clown_Jig.jpg/200px-Will_Kemp_Elizabethan_Clown_Jig.jpg' />
       <span>Photo: Wikipedia.</span>
     </div></a>
-"""
+  """
 
 [widgets.insert-google-translate-script]
   path_regex = "about"
@@ -165,7 +208,7 @@
 		  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
 		}
 	</script>
-"""
+  """
 
 [widgets.insert-google-translate-div]
   path_regex = "about"
@@ -174,5 +217,5 @@
   action = "prepend_child"
   html = """   
 		<div id="google_translate_element"></div>
-"""
+  """
 

@@ -33,7 +33,6 @@ content {
   top: 105px;
   display: block;
   margin: 1%;
-  padding-right: 1em;
 }
 
 copyright {
@@ -74,7 +73,7 @@ h3 {
 
 hr
 {
-  height: 3px;
+  height: 1px;
   background-color: green;
   border: 0 none;
   margin: 0;

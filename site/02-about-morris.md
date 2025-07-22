@@ -11,7 +11,7 @@ You’ve seen the bells, the sticks, the handkerchiefs—and maybe you’re wond
 
 What you saw was **Cotswold Morris dancing**, a traditional English folk dance that’s been around for centuries. It comes from the villages of the Cotswold Hills, a region in south-central England, and is usually performed by six dancers in white, with bells on their legs and either **handkerchiefs** or **sticks** in hand.  
 
-<image-left src='/img/Warwick.jpg' alt='Dancers leaping into line' height=150px />
+<photo float="left" src='/img/Warwick.jpg' alt='Dancers leaping into line' height=9lh />
 
 The dancers form patterns whilst performing quite complex steps: lines moving forward and back, weaving in and out, dancing in circles. We dance to live music from a _melodeon_ (that's a button accordian / squeezebox) and _drum_, creating a rhythmic, joyful spectacle. 
 

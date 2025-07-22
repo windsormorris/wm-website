@@ -2,13 +2,11 @@
 Windsor Morris
 ==============
 
-<img class="landscape-image" src="/img/IMG_7201.jpg" alt="Dancers dancing" />
+<landscape-photo src="/img/IMG_7201.jpg" alt="Dancers dancing" />
 
 We are a friendly, energetic and enthusiastic group who enjoy dancing together and taking our dances to a variety of audiences. 
 
-Keep up to date with Windsor Morris on
-<a href='https://www.facebook.com/windsormorrisdancers'>Facebook<i class="fab fa-facebook-square"></i></a> 
-and [Instagram](https://www.instagram.com/wmwindsormorris)<i class="fab fa-instagram"></i>.
+Keep up to date with Windsor Morris on <social-media>.
 
 Where can you see us soon?
 --------------------------
@@ -33,6 +31,8 @@ Where can you see us soon?
 
 **Saturday 27th - Sunday 28th September**
 : Team weekend away in and around Sheffield, dancing at [The Morris Federation's Day of Dance and AGM](https://www.morrisfed.org.uk/event/morris-federation-day-of-dance-and-agm-2025/)
+
+<small>Errors and ommissions excepted!  All times and events subject to weather conditions and, perhaps, to change at short notice. If you are planning to make a trip to see us (thank you!), please consider [contacting us](contact-us/) for the latest arrangements.</small>
 
 ---
 
@@ -65,6 +65,3 @@ Where have we already been?
 
 **Sunday 13th July**
 : continuing our _Anniversary tour_, dancing in Newbury from between 11am - 1pm.
-
-<small>Errors and ommissions excepted!  All times and events subject to weather conditions and, perhaps, to change at short notice. If you are planning to make a trip to see us (thank you!), please consider [contacting us](contact-us/) for the latest arrangements.</small>
-

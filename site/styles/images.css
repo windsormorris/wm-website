@@ -4,11 +4,11 @@
  */
  
 figcaption {
-   display: none; /* pandoc wraps img alt text in firgure/figcaption */
+   display: none; /* pandoc wraps img alt text in figure/figcaption */
 }
 
 /* 
- * images with credits that must accompany them  - height must be set on the image
+ * images with [optional] credits - height must be set on the image
  */
 
 .photo-container-right {
@@ -42,45 +42,11 @@ credit::before {
 credit {
   font-size: 0.6rem;
   color: #666;
+  display: block;
 }
 
-/* 
- * images with no credit or title to worry about - height must be set on the image
- */
-
-.image-left {
-  max-width: 35%;
-  float: left;
-  margin-right: 6px;
-}
-
-.image-left img {
-  height: 100%;
+img.landscape {
   width: 100%;
+  height: auto;
   object-fit: scale-down;
-}
-
-/* 
- * some images are done differently when portrait 
- */
-
-@media only screen and not (orientation: landscape) {
-  .landscape-image {
-    clear: both;
-    object-fit: scale-down;
-    max-width:98%;
-    height: auto;
-    max-height: 25%
-  }
-}
-
-/* or landscape... */
-
-@media only screen and (orientation: landscape) {
-  .landscape-image {
-    float: right;
-    width: 50%;
-    height: auto;
-    margin-left: 6px;
-  }
-}
+ }

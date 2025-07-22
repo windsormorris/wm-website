@@ -4,10 +4,7 @@ Try for yourself!
 We're not all born Morris dancers! Few Morris dancers come from a Morris dancing 
 background; we tried it and loved it, and you can have a go too.
 
-<div class='photo-container-left'>
- ![Morris bells turned into smiley faces](/img/laughing_bells.jpg)
-  <credit>Lucy Goddard</credit>
-</div>
+<photo float="left" src="/img/laughing_bells.jpg" alt="Morris bells turned into smiley faces" height=7lh credit="Lucy Goddard" />
 
 Every year in the autumn, we run three, free, weekly taster sessions on Wednesday evenings, so you too can come along and find out what it's all about.  There is no obligation on either side!
 
@@ -17,7 +14,6 @@ You can find us at the [Gardeners Hall, St Leonards Rd, Windsor, SL4 3DR](https:
 
 [Contact us](/contact-us/) for further details or just turn up!
 
-Although membership of Windsor Morris is by invitation only, 
-**everyone is welcome** to join us at these sessions.
+Although membership of Windsor Morris is by invitation only, **everyone is welcome** to join us at these sessions.
 
 
