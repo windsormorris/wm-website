@@ -11,9 +11,31 @@ Keep up to date with Windsor Morris on <social-media>.
 Where can you see us soon?
 --------------------------
 
-**Saturday 2nd - Friday 8th August**
-: Dancing at the [Sidmouth Folk Festival](https://sidmouthfolkfestival.co.uk/). 
-: For full details see [the Festival programme](https://sidmouthfolkfestival.co.uk/display-dance/) when it is published later this year.
+**Friday 1st - Friday 8th August**
+: Dancing at the [Sidmouth Folk Festival](https://sidmouthfolkfestival.co.uk/). For full details see below:
+
+**Friday 1st August**
+: 5pm Dancing on the seafront.
+
+**Saturday 2nd August**
+: 11am Port Royal; 2:30pm Procession from Seafront (Belmont Hotel) to Blackmore Gardens; 4:10pm Blackmore Gardens Marquee; 4:45pm Bedford Steps; midnight: Late Night Extra ceilidh spot.
+
+**Sunday 3rd August**
+: 10:15am Yacht club; 11am York Steps; 12noon Bedford Steps; from 7pm Town Tour (pub crawl!).
+
+Monday 4th August is our day off
+
+**Tuesday 5th August**
+: 11am & 1:30pm Port Royal; 3:20pm Blackmore Gardens Marquee; 17:30 Port Royal.
+
+**Wednesday 6th August**
+: 11am Workshop at St Theresa's Hall; 3pm Connaught Gardens; 5pm Market Square.
+
+**Thursday 7th August**
+: 11am Workshop at St Theresa's Hall; 2:30pm Procession from Seafront (Belmont Hotel) to Blackmore Gardens; 5pm Market Square.
+
+**Friday 8th August**
+: 11am Bedford Steps; 1pm Meet the team at Blackmore Marquee; 3:15pm Connaught Gardens; 5pm Bedford Steps; 10pm Torchlight procession along seafront.
 
 **Saturday 23rd - Monday 25th August**
 : Dancing at the [Shrewsbury Folk Festival](https://shrewsburyfolkfestival.co.uk/). 
