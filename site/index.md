@@ -13,7 +13,7 @@ Where can you see us soon?
 
 **Saturday 6th September**
 : _Home tour_, dancing in Windsor with guests [Ditchling Morris](https://www.ditchlingmorris.org/); [Downes on Tour](https://www.google.com/search?q=%23downesontourmorris); [Tower Ravens Rapper](https://www.towerravens.org.uk/); and [Yateley Morris Men](https://yateleymorrismen.org.uk/).
-: 11am Thames Street SL4 1PX (the Windsor side of Eton Bridge); 12noon The Boatman, Thames Side, SL4 1QN; 1:45pm Two Brewers, Park Street, SL4 1LB; 3pm Indie Rabble/Two Flints, The Arches, SL4 1QZ; Windsor & Eton Brewery, Vansittart Estate, SL4 1SE.
+: 11am Thames Street SL4 1PX (the Windsor side of Eton Bridge); 12noon The Boatman, Thames Side, SL4 1QN; 1:45pm Two Brewers, Park Street, SL4 1LB; 3pm Indie Rabble/Two Flints, The Arches, SL4 1QZ; 4:15pm Windsor & Eton Brewery, Vansittart Estate, SL4 1SE.
 
 **Saturday 27th - Sunday 28th September**
 : Team weekend away in and around Sheffield, dancing at [The Morris Federation's Day of Dance and AGM](https://www.morrisfed.org.uk/event/morris-federation-day-of-dance-and-agm-2025/)
