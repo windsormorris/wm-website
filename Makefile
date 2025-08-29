@@ -7,8 +7,8 @@ commit:
 	
 push: 
 	eval "$(ssh-agent -s)"
-	ssh-add /home/jjw/.ssh/js_github
-	git push ssh://git@ssh.github.com:443/jjw/js-website
+	ssh-add /home/jjw/.ssh/wm_github
+	git push ssh://git@ssh.github.com:443/windsormorris/wm-website
 	
 publish: force commit push
 	
