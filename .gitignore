@@ -1,3 +1,6 @@
+# ignore anything starting with an underscore
+_*/
+
 # Logs
 logs
 *.log
