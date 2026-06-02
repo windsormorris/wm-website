@@ -8,14 +8,14 @@ We are a friendly, energetic and enthusiastic group who enjoy dancing together a
 
 Keep up to date with Windsor Morris on <social-media>.
 
-Where can you see us soon?
---------------------------
+Where can you see us?
+---------------------
 
 **Monday 25th May, from 6pm**
 : dancing outside The Horseshoe, 3 Bridge St, Bampton OX18 2HA as guests of [Bampton Traditional Morris](https://www.bamptontraditionalmorris.co.uk/whitsun-2026/).
 
 **Saturday 6th June 2026, 11am - 4pm** _Home tour_
-: dancing in Windsor with Kirtlington Morris.
+: dancing in Windsor with Kirtlington Morris and Mayfly Morris of Whitchurch.
 : 1100-1145 at the [W&E Brewery Taproom](https://webrew.co.uk/venues/unit-4-taproom/)
 : 1200-1245 in Alexandra Gardens (on the path near the sundial)
 : 1405-1440 at Two Brewers SL4 1LB
