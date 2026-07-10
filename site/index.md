@@ -11,6 +11,28 @@ Keep up to date with Windsor Morris on <social-media>.
 Where can you see us?
 ---------------------
 
+**Saturday 18th July 2026, 11am - 4pm** _Home tour_
+: dancing in Windsor with Wallingford Morris
+
+**Monday 27th July, from 8pm**
+: dancing in Windsor with [Muddy River Morris](https://muddyrivermorris.org/) of Boston, USA.
+
+**Sunday 2nd August, from 11am**
+: dancing on the Seafront at Sidmouth, Devon.
+
+**Saturday 5th September, from 11am**
+: dancing at [Wallingford Bunkfest](https://bunkfest.co.uk/).
+
+**Saturday 19th September 2026, 11am - 4pm** _Home tour_
+: dancing in Windsor with Fool's Gambit Morris, New Esperance Morris, Cuckoo's Nest Morris and Pecsaetan Morris.
+
+<small>Errors and ommissions excepted!  All times and events subject to weather conditions and, perhaps, to change at short notice. If you are planning to make a trip to see us (thank you!), please consider [contacting us](contact-us/) for the latest arrangements.</small>
+
+---
+
+Where were you?
+---------------
+
 **Monday 25th May, from 6pm**
 : dancing outside The Horseshoe, 3 Bridge St, Bampton OX18 2HA as guests of [Bampton Traditional Morris](https://www.bamptontraditionalmorris.co.uk/whitsun-2026/).
 
@@ -24,22 +46,4 @@ Where can you see us?
 **Saturday 4th July, from 10am**
 : dancing in Alton as guests of Alton Morris on their 35 Anniversary.
 
-**Saturday 18th July 2026, 11am - 4pm** _Home tour_
-: dancing in Windsor with Brighton Morris and Wallingford Morris
-
-**Monday 27th July, from 8pm**
-: dancing in Windsor with [Muddy River Morris](https://muddyrivermorris.org/) of Boston, USA.
-
-**Sunday 2nd August, from 11am**
-: dancing on the Seafront at Sidmouth, Devon.
-
-**Saturday 5th September, from 11am**
-: dancing at a secret location, yet to be revealed!
-
-**Saturday 19th September 2026, 11am - 4pm** _Home tour_
-: dancing in Windsor with Fool's Gambit Morris, New Esperance Morris, Cuckoo's Nest Morris and Pecsaetan Morris.
-
-<small>Errors and ommissions excepted!  All times and events subject to weather conditions and, perhaps, to change at short notice. If you are planning to make a trip to see us (thank you!), please consider [contacting us](contact-us/) for the latest arrangements.</small>
-
----
 
