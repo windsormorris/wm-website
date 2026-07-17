@@ -11,13 +11,12 @@ Keep up to date with Windsor Morris on <social-media>.
 Where can you see us?
 ---------------------
 
-**Saturday 18th July 2026, 11am - 4pm** _Home tour_: [map](https://www.google.com/maps/d/edit?mid=1fm40Io8H2kQn9Ws_Dcw0CyEQVwbopT0&usp=sharing)
+**Saturday 18th July 2026, 11am - 4pm** _Home tour_: [map](https://www.google.com/maps/d/viewer?mid=1fm40Io8H2kQn9Ws_Dcw0CyEQVwbopT0&ll=51.48224768148672%2C-0.6117435609756372&z=15)
 : dancing in Windsor with Wallingford Morris.
 : 11am by the Guildhall / Prince Harry PH;
 : 12noon Peascod Street (by Caffè Nero);
 : 2pm Two Flints / Indie Rabble breweries, off Goswell Road;
 : 3pm Windsor & Eton Brewery, Vansittart Estate.
-
 
 **Monday 27th July, from 8pm**
 : dancing in Windsor with [Muddy River Morris](https://muddyrivermorris.org/) of Boston, USA.
