@@ -8,18 +8,12 @@ We are a friendly, energetic and enthusiastic group who enjoy dancing together a
 
 Keep up to date with Windsor Morris on <social-media>.
 
-Where can you see us?
----------------------
-
-**Saturday 18th July 2026, 11am - 4pm** _Home tour_: [map](https://www.google.com/maps/d/viewer?mid=1fm40Io8H2kQn9Ws_Dcw0CyEQVwbopT0&ll=51.48224768148672%2C-0.6117435609756372&z=15)
-: dancing in Windsor with Wallingford Morris.
-: 11am by the Guildhall / Prince Harry PH;
-: 12noon Peascod Street (by Caffè Nero);
-: 2pm Two Flints / Indie Rabble breweries, off Goswell Road;
-: 3pm Windsor & Eton Brewery, Vansittart Estate.
+Where can you see us next?
+--------------------------
 
 **Monday 27th July, from 8pm**
 : dancing in Windsor with [Muddy River Morris](https://muddyrivermorris.org/) of Boston, USA.
+: 8pm by the Guildhall (Prince Harry PH)
 
 **Sunday 2nd August, from 11am**
 : dancing on the Seafront at Sidmouth, Devon.
@@ -34,8 +28,8 @@ Where can you see us?
 
 ---
 
-Where were you?
----------------
+Where have we been?
+-------------------
 
 **Monday 25th May, from 6pm**
 : dancing outside The Horseshoe, 3 Bridge St, Bampton OX18 2HA as guests of [Bampton Traditional Morris](https://www.bamptontraditionalmorris.co.uk/whitsun-2026/).
@@ -49,5 +43,13 @@ Where were you?
 
 **Saturday 4th July, from 10am**
 : dancing in Alton as guests of Alton Morris on their 35 Anniversary.
+
+**Saturday 18th July 2026, 11am - 4pm** _Home tour_: [map](https://www.google.com/maps/d/viewer?mid=1fm40Io8H2kQn9Ws_Dcw0CyEQVwbopT0&ll=51.48224768148672%2C-0.6117435609756372&z=15)
+: dancing in Windsor with Wallingford Morris.
+: 11am by the Guildhall / Prince Harry PH;
+: 12noon Peascod Street (by Caffè Nero);
+: 2pm Two Flints / Indie Rabble breweries, off Goswell Road;
+: 3pm Windsor & Eton Brewery, Vansittart Estate.
+
 
 
